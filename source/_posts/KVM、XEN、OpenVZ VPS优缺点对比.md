@@ -1,4 +1,4 @@
-title: ghostsf
+title: KVM、XEN、OpenVZ VPS优缺点对比
 categories: 
 tags: []
 date: 2017-06-14 13:36:00
