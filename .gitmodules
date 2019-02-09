@@ -1,0 +1,3 @@
+[submodule "themes/xiao"]
+	path = themes/xiao
+	url = git@github.com:ghostsf/hexo-theme-xiao.git
