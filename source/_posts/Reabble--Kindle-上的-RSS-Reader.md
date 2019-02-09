@@ -1,4 +1,5 @@
-title: Reabble: Kindle 上的 RSS Reader
+layout: false
+title: Reabble Kindle 上的 RSS Reader
 categories: 旧文字
 tags: [kindle]
 date: 2016-01-31 02:57:42

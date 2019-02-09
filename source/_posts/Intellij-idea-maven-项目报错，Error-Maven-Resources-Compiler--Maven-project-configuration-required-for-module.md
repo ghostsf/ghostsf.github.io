@@ -1,4 +1,5 @@
-title: Intellij idea maven 项目报错，Error:Maven Resources Compiler: Maven project configuration required for module
+layout: false
+title: Intellij idea maven 项目报错，Error Maven Resources Compiler Maven project configuration required for module
 categories: 旧文字
 tags: [idea,maven]
 date: 2017-03-07 14:53:27

@@ -1,4 +1,5 @@
-title: hexo博客搭建：hexo deploy至github 出现/dev/tty : No such device or address；could not read Username for github的解决方案
+layout: false
+title: hexo博客搭建 - hexo deploy至github 出现/dev/tty No such device or address；could not read Username for github的解决方案
 categories: 旧文字
 tags: [hexo]
 date: 2016-04-27 01:56:00
