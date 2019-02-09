@@ -1,2 +1,2 @@
 # ghostsf.com
-My code life blog
+My code & life blog
