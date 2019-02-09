@@ -1,0 +1,64 @@
+title: EhCache 配置详解 - ghostsf
+categories: 旧文字
+tags: [ehcache]
+date: 2017-02-21 03:33:04
+---
+> EhCache 是一个纯Java的进程内缓存框架，具有快速、精干等特点，是Hibernate中默认的CacheProvider。
+
+**主要的特性有：**
+1. 快速
+2. 简单
+3. 多种缓存策略
+4. 缓存数据有两级：内存和磁盘，因此无需担心容量问题
+5. 缓存数据会在虚拟机重启的过程中写入磁盘
+6. 可以通过RMI、可插入API等方式进行分布式缓存
+7. 具有缓存和缓存管理器的侦听接口
+8. 支持多缓存管理器实例，以及一个实例的多个缓存区域
+9. 提供Hibernate的缓存实现
+
+**配置参数详解：**
+
+ - name:缓存名称。
+ - maxElementsInMemory：缓存最大个数。
+ - eternal:对象是否永久有效，一但设置了，timeout将不起作用。
+ - timeToIdleSeconds：设置对象在失效前的允许闲置时间（单位：秒）。仅当eternal=false对象不是永久有效时使用，可选属性，默认值是0，也就是可闲置时间无穷大。
+ - timeToLiveSeconds：设置对象在失效前允许存活时间（单位：秒）。最大时间介于创建时间和失效时间之间。仅当eternal=false对象不是永久有效时使用，默认是0.，也就是对象存活时间无穷大。
+ - overflowToDisk：当内存中对象数量达到maxElementsInMemory时，Ehcache将会对象写到磁盘中。
+ - diskSpoolBufferSizeMB：这个参数设置DiskStore（磁盘缓存）的缓存区大小。默认是30MB。每个Cache都应该有自己的一个缓冲区。
+ - maxElementsOnDisk：硬盘最大缓存个数。
+ - diskPersistent：是否缓存虚拟机重启期数据 Whether the disk store persists between
+   restarts of the Virtual Machine. The default value is false.
+ - diskExpiryThreadIntervalSeconds：磁盘失效线程运行时间间隔，默认是120秒。
+ - memoryStoreEvictionPolicy：当达到maxElementsInMemory限制时，Ehcache将会根据指定的策略去清理内存。默认策略是LRU（最近最少使用）。你可以设置为FIFO（先进先出）或是LFU（较少使用）。
+ - clearOnFlush：内存数量最大时是否清除。
+
+**配置示例：**
+
+    <ehcache updateCheck="false" dynamicConfig="false">
+    	<diskStore path="java.io.tmpdir"/>
+    
+    	<!-- 模拟session，用于用户状态 -->
+    	<!-- 存放用户登录信息，过期时间 3600秒，用ehache替换session功能 -->
+        <cache name="session"
+               maxElementsInMemory="10000"
+               maxElementsOnDisk="100000"
+               eternal="false"
+               timeToIdleSeconds="3600"
+               timeToLiveSeconds="0"
+               overflowToDisk="true"
+               diskPersistent="true"
+                />
+    	
+    	
+    	<!-- 缓存10分钟 -->
+        <cache name="tenMinute"
+               maxElementsInMemory="10000"
+               maxElementsOnDisk="100000"
+               eternal="false"
+               timeToIdleSeconds="600"
+               timeToLiveSeconds="0"
+               overflowToDisk="true"
+               diskPersistent="true"
+                />
+    </ehcache>
+
