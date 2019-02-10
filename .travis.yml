@@ -6,8 +6,6 @@ install:
 - yarn  #安装hexo及插件
 
 before_script:
-- git submodule init #如果有子模块 需要先拉取子模块
-- git submodule update --recursive
 - cd themes/xiao
 - yarn
 - cd ../..
