@@ -1,5 +1,5 @@
 title: bat常用小脚本
-categories: thinkphp
+categories: 技术栈
 tags: [bat]
 date: 2016-12-11 14:15:11
 ---

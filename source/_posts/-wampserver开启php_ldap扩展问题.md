@@ -1,5 +1,5 @@
-title:  wampserver开启php_ldap扩展问题
-categories: thinkphp
+title: wampserver开启php_ldap扩展问题
+categories: 技术栈
 tags: [php]
 date: 2015-12-21 02:08:37
 ---
