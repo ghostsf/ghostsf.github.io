@@ -1,5 +1,5 @@
 title:  ThinkPHP5.0学习须知和常见问题集
-categories: 旧文字
+categories: 技术栈
 tags: [thinkphp]
 date: 2016-05-17 01:58:00
 ---

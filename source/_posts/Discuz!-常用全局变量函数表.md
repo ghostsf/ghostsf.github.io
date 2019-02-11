@@ -1,5 +1,5 @@
 title: Discuz! 常用全局变量函数表
-categories: 旧文字
+categories: 技术栈
 tags: [discuz模板制作,discuz]
 date: 2015-09-17 11:09:00
 ---

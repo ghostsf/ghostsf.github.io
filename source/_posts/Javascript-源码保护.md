@@ -1,5 +1,5 @@
 title: Javascript 源码保护
-categories: 旧文字
+categories: 技术栈
 tags: [javascript]
 date: 2016-01-22 00:54:17
 ---

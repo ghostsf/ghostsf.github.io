@@ -1,5 +1,5 @@
 title: Java 执行adb shell
-categories: 
+categories: 技术栈
 tags: []
 date: 2015-06-24 08:37:00
 ---

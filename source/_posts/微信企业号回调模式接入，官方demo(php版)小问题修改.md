@@ -1,5 +1,5 @@
 title: 微信企业号回调模式接入，官方demo(php版)小问题修改
-categories: 旧文字
+categories: 技术栈
 tags: [微信二次开发]
 date: 2016-02-23 07:53:37
 ---

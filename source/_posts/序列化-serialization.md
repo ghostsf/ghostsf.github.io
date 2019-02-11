@@ -1,5 +1,5 @@
 title: 序列化 serialization
-categories: 旧文字
+categories: 技术栈
 tags: [序列化]
 date: 2015-10-25 02:38:58
 ---

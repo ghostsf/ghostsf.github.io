@@ -1,5 +1,5 @@
 title: Discuz目录结构说明
-categories: 旧文字
+categories: 技术栈
 tags: [discuz]
 date: 2015-09-24 08:16:02
 ---

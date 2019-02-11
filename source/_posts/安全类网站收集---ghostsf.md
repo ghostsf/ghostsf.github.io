@@ -1,5 +1,5 @@
 title: 安全类网站收集 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [安全类网站]
 date: 2016-11-01 04:32:06
 ---

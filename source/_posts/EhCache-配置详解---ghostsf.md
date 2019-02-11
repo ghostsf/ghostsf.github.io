@@ -1,5 +1,5 @@
 title: EhCache 配置详解 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [ehcache]
 date: 2017-02-21 03:33:04
 ---

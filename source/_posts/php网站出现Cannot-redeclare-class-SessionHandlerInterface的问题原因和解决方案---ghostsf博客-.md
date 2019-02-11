@@ -1,5 +1,5 @@
 title: php网站出现Cannot redeclare class SessionHandlerInterface的问题原因和解决方案 - ghostsf博客 
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-10-12 05:29:00
 ---

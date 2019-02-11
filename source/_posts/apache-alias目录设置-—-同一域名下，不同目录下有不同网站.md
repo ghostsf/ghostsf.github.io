@@ -1,5 +1,5 @@
 title: apache alias目录设置 — 同一域名下，不同目录下有不同网站
-categories: 旧文字
+categories: 技术栈
 tags: [apache]
 date: 2016-06-22 08:46:00
 ---

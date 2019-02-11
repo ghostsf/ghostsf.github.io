@@ -1,8 +1,266 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/themes/xiao/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/README.md" afterDir="false" />
+    <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="fix: change link">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/404/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/404/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/-ThinkPHP5.0学习须知和常见问题集.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/-ThinkPHP5.0学习须知和常见问题集.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/-ThinkPHP出现add、save无法添加、修改的情况解决方案——Thinkphp缓存问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/-ThinkPHP出现add、save无法添加、修改的情况解决方案——Thinkphp缓存问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/-Unable-to-process-Jar-entry-[COM-ibm-db2os390-sqlj-custom-DB2SQLJCustomizer.class]-from-Jar-.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/-Unable-to-process-Jar-entry-[COM-ibm-db2os390-sqlj-custom-DB2SQLJCustomizer.class]-from-Jar-.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/-wampserver开启php_ldap扩展问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/-wampserver开启php_ldap扩展问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/1024程序员节到了，程序员务必人手一份装逼指南---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/1024程序员节到了，程序员务必人手一份装逼指南---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/1024程序员节，写给改变世界的程序员---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/1024程序员节，写给改变世界的程序员---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/10大最常见的数据库安全问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/10大最常见的数据库安全问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2B物语——左手-右手.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2B物语——左手-右手.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/2B物语——猪说.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2B物语——猪说.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Android-Studio——Gradle基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Android-Studio——Gradle基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Apache-VirtualHost-配置-—-同一台机器搭建属于不同域名或者基于不同-IP-的多个网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Apache-VirtualHost-配置-—-同一台机器搭建属于不同域名或者基于不同-IP-的多个网站.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/CS-LP-编程指南思维导图.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/CS-LP-编程指南思维导图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Centos6安装中文字体的方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Centos6安装中文字体的方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Centos7-LNMP-搭建---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Centos7-LNMP-搭建---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/DEDECMS做手机网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/DEDECMS做手机网站.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/DISCUZ-门户文章新增字段.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/DISCUZ-门户文章新增字段.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/DRY原则的误区---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/DRY原则的误区---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/DZ模板目录文件说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/DZ模板目录文件说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Dedecms说明文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Dedecms说明文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Discuz!-全局变量-$_G详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Discuz!-全局变量-$_G详解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Discuz!-常用全局变量函数表.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Discuz!-常用全局变量函数表.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Discuz!X3后门户文章内容页DIY如何应用到所有同类页面.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Discuz!X3后门户文章内容页DIY如何应用到所有同类页面.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Discuz!二次开发添加后台管理模块【转】.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Discuz!二次开发添加后台管理模块【转】.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Discuz模板开发技术手册.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Discuz模板开发技术手册.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Discuz目录结构说明.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Discuz目录结构说明.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Discuz门户DIY模块模板如何自定义语法标签.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Discuz门户DIY模块模板如何自定义语法标签.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Docker-安装-及discourse-安装配置---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Docker-安装-及discourse-安装配置---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/EhCache-配置详解---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/EhCache-配置详解---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/GPS定位地图API都做了加密处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GPS定位地图API都做了加密处理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/GitBook：使用Git+Markdown快速制作电子书.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/GitBook：使用Git+Markdown快速制作电子书.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Git如何Check-Out出指定文件或者文件夹.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Git如何Check-Out出指定文件或者文件夹.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/HTML-&amp;lt;a&amp;gt;-download-属性点击链接来下载图片.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/HTML-&amp;lt;a&amp;gt;-download-属性点击链接来下载图片.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/HTML-图片热区map-area的用法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/HTML-图片热区map-area的用法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hbuilder-html5移动app开发.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hbuilder-html5移动app开发.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Hbuilder5.0使用教程.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Hbuilder5.0使用教程.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/How-to-scrum.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/How-to-scrum.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/IDEA-热部署jrebel插件配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/IDEA-热部署jrebel插件配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/IDEA15快速破解.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/IDEA15快速破解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/IDEA如何快速编写代码并自定义快捷方式.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/IDEA如何快速编写代码并自定义快捷方式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/IDEA实现热部署的简单实现方式.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/IDEA实现热部署的简单实现方式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/IntelliJ-IDEA-License-Server-搭建教程---搭建自己的IntelliJ-IDEA授权服务器.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/IntelliJ-IDEA-License-Server-搭建教程---搭建自己的IntelliJ-IDEA授权服务器.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Intellij-idea-maven-项目报错，Error-Maven-Resources-Compiler--Maven-project-configuration-required-for-module.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Intellij-idea-maven-项目报错，Error-Maven-Resources-Compiler--Maven-project-configuration-required-for-module.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JFinal-2.2-发布，用-JFinal-开发，就这么定了！.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JFinal-2.2-发布，用-JFinal-开发，就这么定了！.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JFinal笔记（一）.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JFinal笔记（一）.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java-8-Optional类.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java-8-Optional类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java-web项目元素汇总解析.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java-web项目元素汇总解析.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java-使用反射-实例化-构造器带有数组参数的类.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java-使用反射-实例化-构造器带有数组参数的类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java-执行adb-shell.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java-执行adb-shell.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JavaScript性能优化小知识总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JavaScript性能优化小知识总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Javascript-源码保护.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Javascript-源码保护.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java任务调度框架Quartz实例.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java任务调度框架Quartz实例.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java工程师面试题整理(社招版)【上】-—-ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java工程师面试题整理(社招版)【上】-—-ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java工程师面试题整理(社招版)【下】-—-ghostsf博客-.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java工程师面试题整理(社招版)【下】-—-ghostsf博客-.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java工程师面试题整理(社招版)【中】-—-ghostsf博客-.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java工程师面试题整理(社招版)【中】-—-ghostsf博客-.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java开发企业号的注意点-illegal-Key-Size的解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java开发企业号的注意点-illegal-Key-Size的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java泛型.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java泛型.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java经典面试题(1).md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java经典面试题(1).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java设计模式——工厂模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java设计模式——工厂模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Java进阶资源汇总---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Java进阶资源汇总---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/JetBrains-2016-系列产品-快速破解-.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/JetBrains-2016-系列产品-快速破解-.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/KVM、XEN、OpenVZ VPS优缺点对比.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/KVM、XEN、OpenVZ VPS优缺点对比.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/LABjs、RequireJS、SeaJS-哪个最好用？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/LABjs、RequireJS、SeaJS-哪个最好用？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/LDAP是什么？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/LDAP是什么？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Linux-Tomcat-输出的日志中文显示乱码的解决方案---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux-Tomcat-输出的日志中文显示乱码的解决方案---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Linux启用SELinux导致类似Discuz之类的网站应用其目录不可写的解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Linux启用SELinux导致类似Discuz之类的网站应用其目录不可写的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/MySQL-Access-denied-for-user-‘root’@’localhost’-(using-password--YES)问题的解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/MySQL-Access-denied-for-user-‘root’@’localhost’-(using-password--YES)问题的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Node.js-学习笔记-Start.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Node.js-学习笔记-Start.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ORACLE-ERROR-ORA-01489--result-of-string-concatenation-is-too-long的解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ORACLE-ERROR-ORA-01489--result-of-string-concatenation-is-too-long的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Oracle-JDBC-BUG-ArrayIndexOutOfBoundsException---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Oracle-JDBC-BUG-ArrayIndexOutOfBoundsException---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/PHP-Warning：-Cannot-send-session-cookie-–-headers-already-sent…或者Cannot-add-modify-header-information-–-headers-already-sent….md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/PHP-Warning：-Cannot-send-session-cookie-–-headers-already-sent…或者Cannot-add-modify-header-information-–-headers-already-sent….md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/PHP301跳转解决爬虫不更新www的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/PHP301跳转解决爬虫不更新www的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/PHP程序员的技术成长规划【转】.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/PHP程序员的技术成长规划【转】.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Python3与Python2的一些区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Python3与Python2的一些区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Python之禅.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Python之禅.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Reabble--Kindle-上的-RSS-Reader.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Reabble--Kindle-上的-RSS-Reader.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/SEO—百度主动推送文章url以及sitemap提交.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/SEO—百度主动推送文章url以及sitemap提交.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/SOME-CLASS-FILES-IN-DB2JCC.JAR-(JCC-DRIVER)-ARE-CORRUPT.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/SOME-CLASS-FILES-IN-DB2JCC.JAR-(JCC-DRIVER)-ARE-CORRUPT.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Scrum-中的三大角色.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Scrum-中的三大角色.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Scrum-迭代式开发-以人为核心.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Scrum-迭代式开发-以人为核心.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Singleton-单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Singleton-单例模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Something-about-MIME-TYPE.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Something-about-MIME-TYPE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Spring-MVC的URL-Mapping和Method-Mapping配置.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Spring-MVC的URL-Mapping和Method-Mapping配置.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Stash-Fails-to-Start-Up-with-java.net.UnknownHostException-Exception---by-ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Stash-Fails-to-Start-Up-with-java.net.UnknownHostException-Exception---by-ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/TYPECHO地址重写提示“重写功能检测失败,-请检查你的服务器设置”的解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/TYPECHO地址重写提示“重写功能检测失败,-请检查你的服务器设置”的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ThinkPHP5-重新颠覆了之前的版本.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ThinkPHP5-重新颠覆了之前的版本.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Tomcat虚拟内存设置--.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Tomcat虚拟内存设置--.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Try-for-C#,START.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Try-for-C#,START.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/UC浏览器开发者版实现PC端实时远程调试手机页面.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/UC浏览器开发者版实现PC端实时远程调试手机页面.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/WAMP环境下建立多个网站的方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/WAMP环境下建立多个网站的方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/WEB-IM-即时通讯可实施方案---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/WEB-IM-即时通讯可实施方案---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/WeUI再加上微信web开发者工具是如何让你爽到不要不要的.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/WeUI再加上微信web开发者工具是如何让你爽到不要不要的.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Web-Services-Required-Jars-Download-Instructions.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Web-Services-Required-Jars-Download-Instructions.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Windows下由于SSH配置文件的不匹配，导致的Permission-denied-(publickey)及其解决方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Windows下由于SSH配置文件的不匹配，导致的Permission-denied-(publickey)及其解决方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/Windows环境下重置mysql密码操作命令——mysql安全模式下可不用密码.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/Windows环境下重置mysql密码操作命令——mysql安全模式下可不用密码.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/android开源项目和框架.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/android开源项目和框架.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/apache-alias目录设置-—-同一域名下，不同目录下有不同网站.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/apache-alias目录设置-—-同一域名下，不同目录下有不同网站.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/apache2-默认不开启pathinfo---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/apache2-默认不开启pathinfo---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/bat常用小脚本.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/bat常用小脚本.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/chrome插件推荐.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/chrome插件推荐.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/css如何使div里面的多行文字垂直居中-.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/css如何使div里面的多行文字垂直居中-.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/discuz-经典加密解密函数.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/discuz-经典加密解密函数.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/discuz在common_member表中的密码无用，真正有用的在ucenter_members.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/discuz在common_member表中的密码无用，真正有用的在ucenter_members.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/discuz模板提交各种问题汇总(一).md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/discuz模板提交各种问题汇总(一).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/discuz论坛模板制作系列——X3后默认主导航固定的修改方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/discuz论坛模板制作系列——X3后默认主导航固定的修改方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/emoji表情在web-html上显示.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/emoji表情在web-html上显示.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/fsockopen函数被PHPDDOS利用攻击的解决办法【转】.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/fsockopen函数被PHPDDOS利用攻击的解决办法【转】.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/git对文件本身属性的修改也会版本控制，比如文件权限---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/git对文件本身属性的修改也会版本控制，比如文件权限---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hexo博客搭建：hexo-deploy至github-出现-dev-tty---No-such-device-or-address；could-not-read-Username-for-github的解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/hexo博客搭建：hexo-deploy至github-出现-dev-tty---No-such-device-or-address；could-not-read-Username-for-github的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/idea-jrebel-plugin-for-free.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/idea-jrebel-plugin-for-free.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/itext转PDF-富文本编辑器解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/itext转PDF-富文本编辑器解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/jFinal2.0-Start-快速上手.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/jFinal2.0-Start-快速上手.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/java.lang.reflect.InvocationTargetException---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/java.lang.reflect.InvocationTargetException---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/jquery-serialize表单序列化，当radio或checkbox-未选中时，没有序列化到对象中的原因分析和解决方案---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/jquery-serialize表单序列化，当radio或checkbox-未选中时，没有序列化到对象中的原因分析和解决方案---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/jquery1.9删除的browser,live,die,sub,toggle的替换方法【转】.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/jquery1.9删除的browser,live,die,sub,toggle的替换方法【转】.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/letsencrypt---Invalid-response-for-ACME-challenge---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/letsencrypt---Invalid-response-for-ACME-challenge---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/linux-tomcat定时自动重启脚本-防止内存溢出等问题---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/linux-tomcat定时自动重启脚本-防止内存溢出等问题---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/linux下时间同步标准时间的方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/linux下时间同步标准时间的方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/linux删除服务器上tomcat或apache等log日志shell脚本---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/linux删除服务器上tomcat或apache等log日志shell脚本---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/mac安装mssql.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/mac安装mssql.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/maven国内中央仓库推荐.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/maven国内中央仓库推荐.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/maven本地仓库加入Sql-Sever-jar包.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/maven本地仓库加入Sql-Sever-jar包.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/mysql-count.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/mysql-count.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/mysql判断字段是否包含某个字符串的方法---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/mysql判断字段是否包含某个字符串的方法---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/node.js随记（一）什么叫服务端JavaScript？---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/node.js随记（一）什么叫服务端JavaScript？---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/openjdk和jdk的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/openjdk和jdk的区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/pacakge-info.java.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/pacakge-info.java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php-composer常用命令与简单使用---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-composer常用命令与简单使用---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php-mysql-解决mysql_connect()方法弃用的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php-mysql-解决mysql_connect()方法弃用的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/phpstudy下非线程安全版php引发的pathinfo模式无法访问的问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/phpstudy下非线程安全版php引发的pathinfo模式无法访问的问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php线程安全版和非线程安全版---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php线程安全版和非线程安全版---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php网站出现Cannot-redeclare-class-SessionHandlerInterface的问题原因和解决方案---ghostsf博客-.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php网站出现Cannot-redeclare-class-SessionHandlerInterface的问题原因和解决方案---ghostsf博客-.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/php连接mysql出现safe-mode-in-effect-errors的原因和解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/php连接mysql出现safe-mode-in-effect-errors的原因和解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/python-web开发——hello-world.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/python-web开发——hello-world.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/seaJs的模块定义、模块加载及模块依赖关系.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/seaJs的模块定义、模块加载及模块依赖关系.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/spring-security-reference译.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/spring-security-reference译.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/sqlite报no-such-table或者library-routine-called-out-of-sequence，最容易忽视的问题---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/sqlite报no-such-table或者library-routine-called-out-of-sequence，最容易忽视的问题---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/sublime-text-相关知识笔记（1）-gbk-utf8编码的转换.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/sublime-text-相关知识笔记（1）-gbk-utf8编码的转换.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/textarea中多出来了空格？html里不要换行不要空格---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/textarea中多出来了空格？html里不要换行不要空格---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/tomcat配置虚拟目录映射.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/tomcat配置虚拟目录映射.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/wampserver下运行的网站如何在局域网共享访问.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/wampserver下运行的网站如何在局域网共享访问.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/web开发---单向数据绑定与双向数据绑定---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/web开发---单向数据绑定与双向数据绑定---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/“集结青春正能量”江宁大学城第二届大学生心理微电影大赛官网.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/“集结青春正能量”江宁大学城第二届大学生心理微电影大赛官网.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【绿与白的邂逅】思恋.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/【绿与白的邂逅】思恋.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【轩&amp;amp;颜】再陪我跳一局炫舞.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/【轩&amp;amp;颜】再陪我跳一局炫舞.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【转】Java-IO-详解.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/【转】Java-IO-详解.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【转】MyBatis-insert操作返回主键.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/【转】MyBatis-insert操作返回主键.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【转】为什么又要造一个叫-Latke-的轮子---同ghostsf的思考.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/【转】为什么又要造一个叫-Latke-的轮子---同ghostsf的思考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【转】全国省市区县最全最新数据表(数据来源谷歌).md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/【转】全国省市区县最全最新数据表(数据来源谷歌).md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/【转】那些免费代理悄悄做的龌蹉事儿.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/【转】那些免费代理悄悄做的龌蹉事儿.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/一个人没出息的十二个特征，你有几个？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/一个人没出息的十二个特征，你有几个？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/一串神奇的数字表白代码---情人节必备.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/一串神奇的数字表白代码---情人节必备.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/一座城市.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/一座城市.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/一张图说明Java工程师学习线路图.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/一张图说明Java工程师学习线路图.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/三生石.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/三生石.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/买了台vultr的VPS折腾折腾.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/买了台vultr的VPS折腾折腾.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/什么是对象-(Object)-一个类是由哪些变量构成的-静态变量和实例变量的区别？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/什么是对象-(Object)-一个类是由哪些变量构成的-静态变量和实例变量的区别？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/使用Jenkins配置自动化构建.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/使用Jenkins配置自动化构建.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/入手DigitalOcean云主机.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/入手DigitalOcean云主机.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/全栈工程师？全栈工程师。.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/全栈工程师？全栈工程师。.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/公子辞.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/公子辞.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/关于SEO的一些知识.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/关于SEO的一些知识.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/关于git多账户的配置使用；多个github账号ssh-key切换使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/关于git多账户的配置使用；多个github账号ssh-key切换使用.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/关于智能家居与智能穿戴一些想法---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/关于智能家居与智能穿戴一些想法---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/内网穿透工具-FRP.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/内网穿透工具-FRP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/利用PHPMailer处理邮件发送.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/利用PHPMailer处理邮件发送.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/前端兼容性测试方案-BrowserStack-使用介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/前端兼容性测试方案-BrowserStack-使用介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/加入-iBetterme-60计划.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/加入-iBetterme-60计划.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/博客SEO优化的一些技巧—Ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/博客SEO优化的一些技巧—Ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/印象笔记Evernote出现同步失败的可能解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/印象笔记Evernote出现同步失败的可能解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/双12入了MBPR，心情激动却又沉重.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/双12入了MBPR，心情激动却又沉重.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/各大网站收录、搜索引擎的提交入口集合.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/各大网站收录、搜索引擎的提交入口集合.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/图床神器-iPic-开放上传服务-Mark.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/图床神器-iPic-开放上传服务-Mark.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/夏的第七章.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/夏的第七章.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/外婆.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/外婆.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/多态-Polymorphism.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/多态-Polymorphism.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/多线程——sleep()-和-wait()-的区别.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/多线程——sleep()-和-wait()-的区别.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何优雅的合并冲突？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/如何优雅的合并冲突？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何利用webhook搭建自动化部署---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/如何利用webhook搭建自动化部署---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如何在Android-studio-配置github.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/如何在Android-studio-配置github.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/如果编程语言是女人【转】.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/如果编程语言是女人【转】.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/字节流与字符流.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/字节流与字符流.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/学习帮助建议.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/学习帮助建议.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/学生事务服务中心微信平台的设计与开发.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/学生事务服务中心微信平台的设计与开发.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/守护线程-daemon-thread.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/守护线程-daemon-thread.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/安全类网站收集---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/安全类网站收集---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/封装-Encapsulation.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/封装-Encapsulation.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/小程序开发小-tips----ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/小程序开发小-tips----ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/小程序强势来袭，可是你看到小程序背后的调整和限制了吗？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/小程序强势来袭，可是你看到小程序背后的调整和限制了吗？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/小米手环2-入手.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/小米手环2-入手.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/尝试微信加一些好友，也许会有惊喜.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/尝试微信加一些好友，也许会有惊喜.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/常用的开源框架---收藏---不定期更新.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/常用的开源框架---收藏---不定期更新.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/序列化-serialization.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/序列化-serialization.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/开源精神---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/开源精神---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信企业号回调模式出现“请求该url失败”以及“echostr校验失败，请您检查是否正确解密并输出明文echostr”.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信企业号回调模式出现“请求该url失败”以及“echostr校验失败，请您检查是否正确解密并输出明文echostr”.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信企业号回调模式接入，官方demo(php版)小问题修改.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信企业号回调模式接入，官方demo(php版)小问题修改.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序IDE的快捷键整理---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序IDE的快捷键整理---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序中使用Promise进行异步流程处理.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序中使用Promise进行异步流程处理.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序从其开发工具源码分析原理---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序从其开发工具源码分析原理---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序如期而至，你在发现里看到小程序了吗？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序如期而至，你在发现里看到小程序了吗？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信小程序开发中遇到的问题总结.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信小程序开发中遇到的问题总结.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信开发服务项目报价参考.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信开发服务项目报价参考.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信开发，关于苹果和安卓上的一些区别---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信开发，关于苹果和安卓上的一些区别---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信订阅号和服务号的功能对比.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信订阅号和服务号的功能对比.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微信订阅号实现oauth授权登录的方案---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微信订阅号实现oauth授权登录的方案---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/微博认证成功，特留念--ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/微博认证成功，特留念--ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/怯懦只会让你退步.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/怯懦只会让你退步.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/情不自禁买了台Kindle.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/情不自禁买了台Kindle.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/惰性.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/惰性.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/成为WEB-程序员的5个理由.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/成为WEB-程序员的5个理由.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/接口-Interface.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/接口-Interface.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/揭秘网络欺诈，用技术手段辨别真伪---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/揭秘网络欺诈，用技术手段辨别真伪---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/支付宝个人收款如何接入自己的网站应用？---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/支付宝个人收款如何接入自己的网站应用？---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/支付宝个人收款的开通方案---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/支付宝个人收款的开通方案---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/改善Java文档的理由、建议和技巧【转】.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/改善Java文档的理由、建议和技巧【转】.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/新手怎么做博客？认真写博文，顺便做好SEO-—-ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/新手怎么做博客？认真写博文，顺便做好SEO-—-ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/新版本Android-Studio安装后启动报错SDK-tools-director-is-missing的解决方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/新版本Android-Studio安装后启动报错SDK-tools-director-is-missing的解决方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/时间宝贵，不做无意义的事情.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/时间宝贵，不做无意义的事情.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/朋友推荐下入手了IKBC-F系列时光机机械键盘---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/朋友推荐下入手了IKBC-F系列时光机机械键盘---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/来测测你其实最想做的工作.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/来测测你其实最想做的工作.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/构造器是否可以被-override.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/构造器是否可以被-override.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/树莓派折腾记（一）初始化&amp;amp;-owncloud.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/树莓派折腾记（一）初始化&amp;amp;-owncloud.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/树莓派折腾记（二）搭建SVN代码托管服务.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/树莓派折腾记（二）搭建SVN代码托管服务.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/树莓派（Raspberry-Pi）3玩起来！.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/树莓派（Raspberry-Pi）3玩起来！.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/模拟定位免root.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/模拟定位免root.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/爱江南.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/爱江南.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/玩MINA(微信小程序框架)遇到的小问题总结---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/玩MINA(微信小程序框架)遇到的小问题总结---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/番茄工作插件-pomodoro-timer-plugin-for-IntelliJ-IDEs-程序员必备良器---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/番茄工作插件-pomodoro-timer-plugin-for-IntelliJ-IDEs-程序员必备良器---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/白粥、面条不养胃！真正有好处的食物是这些.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/白粥、面条不养胃！真正有好处的食物是这些.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/百度echarts-3-发布了，赞.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/百度echarts-3-发布了，赞.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/百度“眼里的”微信小程序---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/百度“眼里的”微信小程序---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/真理难辩.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/真理难辩.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/科研管理系统(SRMS)-Readme文档.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/科研管理系统(SRMS)-Readme文档.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/程序员的养成.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/程序员的养成.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/程序员翻墙后可以做什么，以提高个人编程能力？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/程序员翻墙后可以做什么，以提高个人编程能力？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/简单写了一个openldap身份验证的php类.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/简单写了一个openldap身份验证的php类.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/网页前端优化---使用DNS-PREFETCHING-加速网页---ghostsf博客.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/网页前端优化---使用DNS-PREFETCHING-加速网页---ghostsf博客.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/解决微信内置浏览器的缓存问题.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/解决微信内置浏览器的缓存问题.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/解决微信内置浏览器缓存问题的几个方案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/解决微信内置浏览器缓存问题的几个方案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/让MySql支持Emoji表情也即MySQL中4字节utf8字符保存方法.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/让MySql支持Emoji表情也即MySQL中4字节utf8字符保存方法.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/让我留在你身边.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/让我留在你身边.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/说一说Java.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/说一说Java.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/逆境中成长...md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/阳光明媚的一天，能否充实地度过呢？.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/阳光明媚的一天，能否充实地度过呢？.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/青玉案.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/青玉案.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/驿站.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/驿站.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/高校学生事务服务中心微信公众平台的构建.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/高校学生事务服务中心微信公众平台的构建.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/（转）Nginx-SSL让request.getScheme()-取到https正确的协议的解决方案---ghostsf.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/（转）Nginx-SSL让request.getScheme()-取到https正确的协议的解决方案---ghostsf.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/about/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/archives/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/archives/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/categories/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/categories/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/donate/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/donate/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/friends/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/friends/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/message/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/message/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xiao" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xiao/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,22 +291,23 @@
           <entry key="html" value="2" />
           <entry key="ico" value="2" />
           <entry key="jpeg" value="1" />
-          <entry key="jpg" value="26" />
+          <entry key="jpg" value="27" />
           <entry key="json" value="4" />
-          <entry key="md" value="30" />
-          <entry key="png" value="31" />
-          <entry key="yml" value="11" />
+          <entry key="md" value="154" />
+          <entry key="png" value="32" />
+          <entry key="swig" value="1" />
+          <entry key="yml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="5" />
           <entry key="HTML" value="2" />
-          <entry key="Image" value="60" />
+          <entry key="Image" value="62" />
           <entry key="JSON" value="4" />
-          <entry key="Markdown" value="30" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="YAML" value="11" />
+          <entry key="Markdown" value="154" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="YAML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -56,8 +315,8 @@
           <entry key="gitignore" value="5" />
           <entry key="gitmodules" value="2" />
           <entry key="json" value="77" />
-          <entry key="md" value="263" />
-          <entry key="txt" value="157" />
+          <entry key="md" value="774" />
+          <entry key="txt" value="168" />
           <entry key="yml" value="304" />
         </counts>
       </usages-collector>
@@ -65,8 +324,8 @@
         <counts>
           <entry key="Git file" value="5" />
           <entry key="JSON" value="77" />
-          <entry key="Markdown" value="263" />
-          <entry key="PLAIN_TEXT" value="159" />
+          <entry key="Markdown" value="774" />
+          <entry key="PLAIN_TEXT" value="170" />
           <entry key="YAML" value="304" />
         </counts>
       </usages-collector>
@@ -74,12 +333,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/xiao/README.md">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source/_posts/夏的第七章.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="46">
-                <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/source/_posts/外婆.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="506">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -94,16 +363,22 @@
       <find>deploy</find>
       <find>xiao</find>
       <find>DIYgod</find>
+      <find>donate</find>
+      <find>旧文字</find>
+      <find>站内搜索</find>
     </findStrings>
     <replaceStrings>
       <replace>ghostsf</replace>
+      <replace>技术栈</replace>
     </replaceStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/source/_posts</dir>
+      <dir>$PROJECT_DIR$/themes/xiao</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/xiao" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -113,26 +388,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/themes/xiao/package.json" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/source/_posts/ghostsf.md" />
-        <option value="$PROJECT_DIR$/source/_posts/MySQL-Access-denied-for-user-‘root’@’localhost’-(using-password--YES)问题的解决方案.md" />
-        <option value="$PROJECT_DIR$/source/_posts/Intellij-idea-maven-项目报错，Error-Maven-Resources-Compiler--Maven-project-configuration-required-for-module.md" />
-        <option value="$PROJECT_DIR$/source/_posts/ORACLE-ERROR-ORA-01489--result-of-string-concatenation-is-too-long的解决方案.md" />
-        <option value="$PROJECT_DIR$/source/_posts/Reabble--Kindle-上的-RSS-Reader.md" />
-        <option value="$PROJECT_DIR$/source/_posts/hexo博客搭建：hexo-deploy至github-出现-dev-tty---No-such-device-or-address；could-not-read-Username-for-github的解决方案.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/.gitmodules" />
-        <option value="$PROJECT_DIR$/source/donate/index.md" />
-        <option value="$PROJECT_DIR$/source/message/index.md" />
-        <option value="$PROJECT_DIR$/source/archives/index.md" />
-        <option value="$PROJECT_DIR$/source/friends/index.md" />
-        <option value="$PROJECT_DIR$/source/about/index.md" />
-        <option value="$PROJECT_DIR$/source/404/index.md" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
-        <option value="$PROJECT_DIR$/themes/xiao/_config.yml" />
-        <option value="$PROJECT_DIR$/themes/xiao/README.md" />
+        <option value="$PROJECT_DIR$/source/_posts/php连接mysql出现safe-mode-in-effect-errors的原因和解决方案.md" />
+        <option value="$PROJECT_DIR$/source/_posts/SOME-CLASS-FILES-IN-DB2JCC.JAR-(JCC-DRIVER)-ARE-CORRUPT.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Something-about-MIME-TYPE.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Stash-Fails-to-Start-Up-with-java.net.UnknownHostException-Exception---by-ghostsf.md" />
+        <option value="$PROJECT_DIR$/source/_posts/textarea中多出来了空格？html里不要换行不要空格---ghostsf博客.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Tomcat虚拟内存设置--.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Try-for-C#,START.md" />
+        <option value="$PROJECT_DIR$/source/_posts/Web-Services-Required-Jars-Download-Instructions.md" />
+        <option value="$PROJECT_DIR$/source/_posts/web开发---单向数据绑定与双向数据绑定---ghostsf博客.md" />
+        <option value="$PROJECT_DIR$/source/_posts/【绿与白的邂逅】思恋.md" />
+        <option value="$PROJECT_DIR$/source/_posts/【轩&amp;amp;颜】再陪我跳一局炫舞.md" />
+        <option value="$PROJECT_DIR$/source/_posts/一个人没出息的十二个特征，你有几个？.md" />
+        <option value="$PROJECT_DIR$/source/_posts/一串神奇的数字表白代码---情人节必备.md" />
+        <option value="$PROJECT_DIR$/source/_posts/一座城市.md" />
+        <option value="$PROJECT_DIR$/source/_posts/一张图说明Java工程师学习线路图.md" />
+        <option value="$PROJECT_DIR$/source/_posts/三生石.md" />
+        <option value="$PROJECT_DIR$/source/_posts/公子辞.md" />
+        <option value="$PROJECT_DIR$/source/_posts/关于智能家居与智能穿戴一些想法---ghostsf.md" />
+        <option value="$PROJECT_DIR$/source/_posts/利用PHPMailer处理邮件发送.md" />
+        <option value="$PROJECT_DIR$/source/_posts/内网穿透工具-FRP.md" />
+        <option value="$PROJECT_DIR$/source/_posts/双12入了MBPR，心情激动却又沉重.md" />
+        <option value="$PROJECT_DIR$/source/_posts/外婆.md" />
+        <option value="$PROJECT_DIR$/source/_posts/如何优雅的合并冲突？.md" />
+        <option value="$PROJECT_DIR$/source/_posts/如果编程语言是女人【转】.md" />
+        <option value="$PROJECT_DIR$/source/_posts/学习帮助建议.md" />
+        <option value="$PROJECT_DIR$/source/_posts/小米手环2-入手.md" />
+        <option value="$PROJECT_DIR$/source/_posts/尝试微信加一些好友，也许会有惊喜.md" />
+        <option value="$PROJECT_DIR$/source/_posts/常用的开源框架---收藏---不定期更新.md" />
+        <option value="$PROJECT_DIR$/source/_posts/开源精神---ghostsf博客.md" />
+        <option value="$PROJECT_DIR$/source/_posts/怯懦只会让你退步.md" />
+        <option value="$PROJECT_DIR$/source/_posts/情不自禁买了台Kindle.md" />
+        <option value="$PROJECT_DIR$/source/_posts/惰性.md" />
+        <option value="$PROJECT_DIR$/source/_posts/成为WEB-程序员的5个理由.md" />
+        <option value="$PROJECT_DIR$/source/_posts/时间宝贵，不做无意义的事情.md" />
+        <option value="$PROJECT_DIR$/source/_posts/朋友推荐下入手了IKBC-F系列时光机机械键盘---ghostsf.md" />
+        <option value="$PROJECT_DIR$/source/_posts/来测测你其实最想做的工作.md" />
+        <option value="$PROJECT_DIR$/source/_posts/树莓派折腾记（一）初始化&amp;amp;-owncloud.md" />
+        <option value="$PROJECT_DIR$/source/_posts/树莓派折腾记（二）搭建SVN代码托管服务.md" />
+        <option value="$PROJECT_DIR$/source/_posts/树莓派（Raspberry-Pi）3玩起来！.md" />
+        <option value="$PROJECT_DIR$/source/_posts/模拟定位免root.md" />
+        <option value="$PROJECT_DIR$/source/_posts/爱江南.md" />
+        <option value="$PROJECT_DIR$/source/_posts/番茄工作插件-pomodoro-timer-plugin-for-IntelliJ-IDEs-程序员必备良器---ghostsf博客.md" />
+        <option value="$PROJECT_DIR$/source/_posts/白粥、面条不养胃！真正有好处的食物是这些.md" />
+        <option value="$PROJECT_DIR$/source/_posts/百度echarts-3-发布了，赞.md" />
+        <option value="$PROJECT_DIR$/source/_posts/真理难辩.md" />
+        <option value="$PROJECT_DIR$/source/_posts/让MySql支持Emoji表情也即MySQL中4字节utf8字符保存方法.md" />
+        <option value="$PROJECT_DIR$/source/_posts/让我留在你身边.md" />
+        <option value="$PROJECT_DIR$/source/_posts/阳光明媚的一天，能否充实地度过呢？.md" />
+        <option value="$PROJECT_DIR$/source/_posts/青玉案.md" />
+        <option value="$PROJECT_DIR$/source/_posts/驿站.md" />
+        <option value="$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig" />
       </list>
     </option>
   </component>
@@ -182,17 +488,6 @@
               <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="xiao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -211,7 +506,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="hexo&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/hexo博客搭建：hexo-deploy至github-出现-dev-tty---No-such-device-or-address；could-not-read-Username-for-github的解决方案.md" />
+    <property name="SearchEverywhereHistoryKey" value="Tr&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/Try-for-C#,START.md&#10;hexo&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/hexo博客搭建：hexo-deploy至github-出现-dev-tty---No-such-device-or-address；could-not-read-Username-for-github的解决方案.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -246,7 +541,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549701791237</updated>
-      <workItem from="1549701792490" duration="13282000" />
+      <workItem from="1549701792490" duration="17738000" />
     </task>
     <task id="LOCAL-00001" summary="fix: change travis">
       <created>1549706148453</created>
@@ -332,23 +627,37 @@
       <option name="project" value="LOCAL" />
       <updated>1549783560834</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix: update theme">
+      <created>1549783695527</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1549783695527</updated>
+    </task>
+    <task id="LOCAL-00014" summary="fix: change link">
+      <created>1549785331428</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1549785331428</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13282000" />
+    <option name="totallyTimeSpent" value="17738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20433997" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28028932" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" weight="0.32977587" />
       <window_info anchor="bottom" id="Apicloud" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.53788686" />
+      <window_info anchor="bottom" id="Terminal" weight="0.53788686" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -408,100 +717,91 @@
     <MESSAGE value="fix: change submodule git https address" />
     <MESSAGE value="fix: fix travis &amp; add other pages" />
     <MESSAGE value="fix: update theme" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: update theme" />
+    <MESSAGE value="fix: change link" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: change link" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/images/task0004_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/ifttt1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/link/A_of_All.jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/link/Aaron.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/ifttt.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/link/音風.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/link/零件.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/link/2016-08-04_0xBBC.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/link/佳佳.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/2018-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/2018-2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/TASK0001_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/TASK0001_4.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/task0002_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/task0002_5.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/task0003_2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/task0003_3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/task0004_2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/titlehide.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/sw4.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/nas7.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/bz1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/2018-5.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/images/weibo2login.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2B物语——猪说.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/【绿与白的邂逅】思恋.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/高校学生事务服务中心微信公众平台的构建.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/【轩&amp;amp;颜】再陪我跳一局炫舞.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-916" />
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="11" lean-forward="true" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2B物语——左手-右手.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/【转】Java-IO-详解.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/一个人没出息的十二个特征，你有几个？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/一串神奇的数字表白代码---情人节必备.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/一座城市.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/一张图说明Java工程师学习线路图.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/三生石.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/买了台vultr的VPS折腾折腾.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -509,70 +809,373 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/amp-dist/sample/DIYgod.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/公子辞.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/amp-dist/sample/header-sagiri.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/关于智能家居与智能穿戴一些想法---ghostsf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/amp-dist/sample/sample-avator.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/利用PHPMailer处理邮件发送.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/amp-dist/sample/sample-logo.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/内网穿透工具-FRP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/amp-dist/sample/sample-placeholder.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/双12入了MBPR，心情激动却又沉重.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="92">
+            <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/amp-dist/sample/sample-substituteTitleImage.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/message/index.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/如何优雅的合并冲突？.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="46">
-            <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/friends/index.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/如果编程语言是女人【转】.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/donate/index.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/学习帮助建议.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="69">
-            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" selection-end-column="13" />
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/categories/index.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/小米手环2-入手.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/archives/index.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/尝试微信加一些好友，也许会有惊喜.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
           </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/常用的开源框架---收藏---不定期更新.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/开源精神---ghostsf博客.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-133">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/怯懦只会让你退步.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/情不自禁买了台Kindle.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/惰性.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/成为WEB-程序员的5个理由.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/时间宝贵，不做无意义的事情.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/朋友推荐下入手了IKBC-F系列时光机机械键盘---ghostsf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/来测测你其实最想做的工作.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/树莓派折腾记（一）初始化&amp;amp;-owncloud.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/树莓派折腾记（二）搭建SVN代码托管服务.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/树莓派（Raspberry-Pi）3玩起来！.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/模拟定位免root.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/爱江南.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/番茄工作插件-pomodoro-timer-plugin-for-IntelliJ-IDEs-程序员必备良器---ghostsf博客.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/白粥、面条不养胃！真正有好处的食物是这些.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/百度echarts-3-发布了，赞.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/真理难辩.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/科研管理系统(SRMS)-Readme文档.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/让MySql支持Emoji表情也即MySQL中4字节utf8字符保存方法.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/逆境中成长...md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/让我留在你身边.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/说一说Java.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/阳光明媚的一天，能否充实地度过呢？.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/驿站.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="115">
+            <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/青玉案.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="23">
+            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/（转）Nginx-SSL让request.getScheme()-取到https正确的协议的解决方案---ghostsf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
         </state>
       </provider>
@@ -580,66 +1183,32 @@
     <entry file="file://$PROJECT_DIR$/source/404/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="138">
-            <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/about/index.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/高校学生事务服务中心微信公众平台的构建.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          </first_editor>
+          <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/DIYgod-180x180.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/favicon.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/failure.ico">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/header-darling.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/header-darling2.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/header-darling3.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/header-darlings.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/header-mai.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="631" column="15" lean-forward="true" selection-start-line="631" selection-start-column="15" selection-end-line="631" selection-end-column="15" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/夏的第七章.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/README.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/外婆.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="46">
-            <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+          <first_editor relative-caret-position="506">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>

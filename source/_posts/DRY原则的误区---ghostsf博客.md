@@ -1,5 +1,5 @@
 title: DRY原则的误区 - ghostsf博客
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-12-02 03:09:00
 ---

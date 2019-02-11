@@ -1,5 +1,5 @@
 title: 微信小程序IDE的快捷键整理 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [微信小程序]
 date: 2016-11-07 05:39:53
 ---

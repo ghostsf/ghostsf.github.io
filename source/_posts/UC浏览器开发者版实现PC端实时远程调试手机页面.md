@@ -1,5 +1,5 @@
 title: UC浏览器开发者版实现PC端实时远程调试手机页面
-categories: 旧文字
+categories: 技术栈
 tags: [uc浏览器开发者版,pc端调试手机网页]
 date: 2015-09-13 17:04:00
 ---

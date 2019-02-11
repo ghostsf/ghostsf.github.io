@@ -1,5 +1,5 @@
 title: apache2 默认不开启pathinfo - ghostsf博客
-categories: 旧文字
+categories: 技术栈
 tags: [apache,pathinfo]
 date: 2016-07-14 04:59:00
 ---

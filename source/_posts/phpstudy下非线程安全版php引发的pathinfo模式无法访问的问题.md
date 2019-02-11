@@ -1,5 +1,5 @@
 title: phpstudy下非线程安全版php引发的pathinfo模式无法访问的问题
-categories: 旧文字
+categories: 技术栈
 tags: [pathinfo]
 date: 2016-10-27 16:41:00
 ---

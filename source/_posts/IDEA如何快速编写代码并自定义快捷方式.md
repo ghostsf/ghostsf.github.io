@@ -1,5 +1,5 @@
 title: IDEA如何快速编写代码并自定义快捷方式
-categories: 旧文字
+categories: 技术栈
 tags: [idea快捷键,idea快速便捷代码]
 date: 2015-09-02 06:38:22
 ---

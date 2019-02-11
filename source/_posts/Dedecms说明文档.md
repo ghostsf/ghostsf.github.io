@@ -1,5 +1,5 @@
 title: Dedecms说明文档
-categories: 旧文字
+categories: 技术栈
 tags: [dedecms]
 date: 2015-07-06 03:06:18
 ---

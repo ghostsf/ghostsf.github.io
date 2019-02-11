@@ -1,5 +1,5 @@
 title: Apache VirtualHost 配置 — 同一台机器搭建属于不同域名或者基于不同 IP 的多个网站
-categories: 旧文字
+categories: 技术栈
 tags: [apache]
 date: 2016-06-22 08:56:00
 ---

@@ -1,5 +1,5 @@
 title: 新版本Android Studio安装后启动报错SDK tools director is missing的解决方案
-categories: 旧文字
+categories: 技术栈
 tags: [android studio]
 date: 2015-07-13 06:44:05
 ---

@@ -1,5 +1,5 @@
 title: Java经典面试题(1)
-categories: 旧文字
+categories: 技术栈
 tags: [java,面试题]
 date: 2015-08-21 09:22:00
 ---

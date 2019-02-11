@@ -1,5 +1,5 @@
 title: android开源项目和框架
-categories: 旧文字
+categories: 技术栈
 tags: [android框架]
 date: 2015-07-13 06:56:00
 ---

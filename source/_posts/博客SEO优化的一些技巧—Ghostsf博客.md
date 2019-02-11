@@ -1,5 +1,5 @@
 title: 博客SEO优化的一些技巧—Ghostsf博客
-categories: 旧文字
+categories: 技术栈
 tags: [seo]
 date: 2016-06-28 02:34:03
 ---

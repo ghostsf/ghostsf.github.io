@@ -1,5 +1,5 @@
 title: 守护线程 daemon thread
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-10-21 14:29:17
 ---

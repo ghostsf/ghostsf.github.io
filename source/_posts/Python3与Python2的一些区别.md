@@ -1,5 +1,5 @@
 title: Python3与Python2的一些区别
-categories: 旧文字
+categories: 技术栈
 tags: [python]
 date: 2015-07-30 14:48:00
 ---

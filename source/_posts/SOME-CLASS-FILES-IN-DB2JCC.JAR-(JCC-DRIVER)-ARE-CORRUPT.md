@@ -1,5 +1,5 @@
 title: SOME CLASS FILES IN DB2JCC.JAR (JCC DRIVER) ARE CORRUPT
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-05-11 03:12:07
 ---

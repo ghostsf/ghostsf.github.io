@@ -1,5 +1,5 @@
 title: 如何利用webhook搭建自动化部署 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [webhook,自动化部署]
 date: 2017-02-21 03:47:54
 ---

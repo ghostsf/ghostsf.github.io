@@ -1,5 +1,5 @@
 title: ThinkPHP5 重新颠覆了之前的版本
-categories: 旧文字
+categories: 技术栈
 tags: [thinkphp]
 date: 2016-04-17 02:16:53
 ---

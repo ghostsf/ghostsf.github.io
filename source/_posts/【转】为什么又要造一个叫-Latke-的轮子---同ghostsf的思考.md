@@ -1,5 +1,5 @@
 title: 【转】为什么又要造一个叫 Latke 的轮子 - 同ghostsf的思考
-categories: 旧文字
+categories: 技术栈
 tags: [latke]
 date: 2017-02-18 15:23:57
 ---

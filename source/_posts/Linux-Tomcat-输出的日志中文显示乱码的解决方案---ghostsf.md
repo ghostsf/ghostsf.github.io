@@ -1,5 +1,5 @@
 title: Linux Tomcat 输出的日志中文显示乱码的解决方案 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [tomcat]
 date: 2016-10-24 02:20:48
 ---

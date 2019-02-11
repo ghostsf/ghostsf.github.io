@@ -1,5 +1,5 @@
 title: 小程序开发小 tips  - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [微信小程序]
 date: 2016-11-15 10:18:00
 ---

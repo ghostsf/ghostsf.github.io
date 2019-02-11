@@ -1,5 +1,5 @@
 title: 科研管理系统(SRMS) Readme文档
-categories: 旧文字
+categories: 技术栈
 tags: [srms,portfolio]
 date: 2015-06-09 14:19:00
 ---

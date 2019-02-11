@@ -1,5 +1,5 @@
 title: 如何在Android studio 配置github
-categories: 旧文字
+categories: 技术栈
 tags: [android studio]
 date: 2015-07-30 18:40:04
 ---

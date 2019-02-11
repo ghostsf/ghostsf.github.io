@@ -1,5 +1,5 @@
 title: Java 使用反射 实例化 构造器带有数组参数的类
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-08-16 14:38:24
 ---

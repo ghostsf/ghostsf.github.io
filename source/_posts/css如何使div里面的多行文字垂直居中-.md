@@ -1,5 +1,5 @@
 title: css如何使div里面的多行文字垂直居中 
-categories: 旧文字
+categories: 技术栈
 tags: [css]
 date: 2015-07-16 17:21:00
 ---

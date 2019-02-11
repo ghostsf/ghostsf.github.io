@@ -1,5 +1,5 @@
 title: 揭秘网络欺诈，用技术手段辨别真伪 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [网络欺诈]
 date: 2016-12-28 04:53:00
 ---

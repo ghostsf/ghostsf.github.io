@@ -1,5 +1,5 @@
 title: openjdk和jdk的区别
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-01-07 05:23:52
 ---

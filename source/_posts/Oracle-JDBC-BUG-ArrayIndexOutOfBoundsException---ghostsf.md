@@ -1,5 +1,5 @@
 title: Oracle JDBC BUG ArrayIndexOutOfBoundsException - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [oracle]
 date: 2017-01-25 04:29:00
 ---

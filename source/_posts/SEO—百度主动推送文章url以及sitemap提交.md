@@ -1,5 +1,5 @@
 title: SEO—百度主动推送文章url以及sitemap提交
-categories: 旧文字
+categories: 技术栈
 tags: [seo,百度文章收录,typecho插件]
 date: 2015-07-31 12:49:00
 ---

@@ -1,5 +1,5 @@
 title: Java web项目元素汇总解析
-categories: 旧文字
+categories: 技术栈
 tags: [java web]
 date: 2015-09-19 03:38:51
 ---

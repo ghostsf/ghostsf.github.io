@@ -1,5 +1,5 @@
 title: Git如何Check Out出指定文件或者文件夹
-categories: 旧文字
+categories: 技术栈
 tags: [git]
 date: 2016-11-04 12:11:48
 ---

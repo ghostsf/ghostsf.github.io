@@ -1,5 +1,5 @@
 title: 百度“眼里的”微信小程序 - ghostsf博客
-categories: 旧文字
+categories: 技术栈
 tags: [微信小程序]
 date: 2016-12-06 01:55:27
 ---

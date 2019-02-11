@@ -1,5 +1,5 @@
 title: 微信企业号回调模式出现“请求该url失败”以及“echostr校验失败，请您检查是否正确解密并输出明文echostr”
-categories: 旧文字
+categories: 技术栈
 tags: [微信二次开发]
 date: 2016-02-23 08:06:57
 ---

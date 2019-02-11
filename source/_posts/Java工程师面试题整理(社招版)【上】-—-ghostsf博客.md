@@ -1,5 +1,5 @@
 title: Java工程师面试题整理(社招版)【上】 — ghostsf博客
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-07-12 03:01:00
 ---

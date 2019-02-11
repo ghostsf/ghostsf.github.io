@@ -1,5 +1,5 @@
 title: LDAP是什么？
-categories: 
+categories: 技术栈
 tags: []
 date: 2015-12-21 02:07:34
 ---

@@ -1,6 +1,6 @@
 title:  ThinkPHP出现add、save无法添加、修改的情况解决方案——Thinkphp缓存问题
-categories: 
-tags: []
+categories: 技术栈
+tags: [thinkphp]
 date: 2016-04-12 06:37:07
 ---
 近期开发PHP程序，出现部分修改操作没有执行成功。程序走了修改操作，但是数据库里的数据根本没有改。

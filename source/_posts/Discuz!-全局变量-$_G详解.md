@@ -1,5 +1,5 @@
 title: Discuz! 全局变量 $_G详解
-categories: 旧文字
+categories: 技术栈
 tags: [discuz模板制作]
 date: 2015-09-17 11:06:14
 ---

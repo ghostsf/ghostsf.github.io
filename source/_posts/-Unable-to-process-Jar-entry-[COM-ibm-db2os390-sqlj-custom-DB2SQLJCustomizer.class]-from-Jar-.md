@@ -1,5 +1,5 @@
 title:  Unable to process Jar entry [COM/ibm/db2os390/sqlj/custom/DB2SQLJCustomizer.class] from Jar 
-categories: 旧文字
+categories: 技术栈
 tags: [db2]
 date: 2016-05-11 03:16:02
 ---

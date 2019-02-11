@@ -1,5 +1,5 @@
 title: 买了台vultr的VPS折腾折腾
-categories: 旧文字
+categories: 技术栈
 tags: [vps]
 date: 2016-10-13 01:54:19
 ---

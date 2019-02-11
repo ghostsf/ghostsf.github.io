@@ -1,5 +1,5 @@
 title: WEB IM 即时通讯可实施方案 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [IM]
 date: 2017-02-28 10:15:00
 ---

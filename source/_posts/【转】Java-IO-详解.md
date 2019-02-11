@@ -1,5 +1,5 @@
 title: 【转】Java IO 详解
-categories: 旧文字
+categories: 技术栈
 tags: [java,io]
 date: 2015-10-25 02:48:32
 ---

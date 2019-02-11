@@ -1,5 +1,5 @@
 title: GitBook：使用Git+Markdown快速制作电子书
-categories: 旧文字
+categories: 技术栈
 tags: [gitbook]
 date: 2015-10-08 02:36:00
 ---

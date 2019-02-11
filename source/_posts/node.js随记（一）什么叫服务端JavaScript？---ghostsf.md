@@ -1,5 +1,5 @@
 title: node.js随记（一）什么叫服务端JavaScript？ - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [服务端javascript]
 date: 2016-10-20 16:55:20
 ---

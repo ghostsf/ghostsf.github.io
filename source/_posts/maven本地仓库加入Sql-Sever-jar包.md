@@ -1,5 +1,5 @@
 title: maven本地仓库加入Sql Sever jar包
-categories: 旧文字
+categories: 技术栈
 tags: [maven]
 date: 2016-03-03 07:34:00
 ---

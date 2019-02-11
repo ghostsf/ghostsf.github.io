@@ -1,5 +1,5 @@
 title: 朋友推荐下入手了IKBC F系列时光机机械键盘 - ghostsf
-categories: 
+categories: 事件簿
 tags: []
 date: 2016-12-26 15:44:00
 ---

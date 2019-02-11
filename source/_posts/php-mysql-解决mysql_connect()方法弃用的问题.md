@@ -1,5 +1,5 @@
 title: php-mysql-解决mysql_connect()方法弃用的问题
-categories: 旧文字
+categories: 技术栈
 tags: [php,mysql,mysqli]
 date: 2015-08-19 18:50:05
 ---

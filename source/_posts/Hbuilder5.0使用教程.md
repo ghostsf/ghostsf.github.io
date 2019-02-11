@@ -1,5 +1,5 @@
 title: Hbuilder5.0使用教程
-categories: 旧文字
+categories: 技术栈
 tags: [hbuilder,html5]
 date: 2015-09-16 14:20:21
 ---

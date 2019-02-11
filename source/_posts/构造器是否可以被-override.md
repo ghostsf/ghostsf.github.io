@@ -1,5 +1,5 @@
 title: 构造器是否可以被 override
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-10-21 04:55:17
 ---

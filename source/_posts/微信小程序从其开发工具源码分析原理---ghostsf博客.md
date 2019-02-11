@@ -1,5 +1,5 @@
 title: 微信小程序从其开发工具源码分析原理 - ghostsf博客
-categories: 旧文字
+categories: 技术栈
 tags: [微信小程序]
 date: 2016-09-28 07:13:00
 ---

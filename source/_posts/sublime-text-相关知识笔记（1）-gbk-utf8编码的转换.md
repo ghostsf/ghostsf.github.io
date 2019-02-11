@@ -1,5 +1,5 @@
 title: sublime text 相关知识笔记（1） gbk-utf8编码的转换
-categories: 旧文字
+categories: 技术栈
 tags: [sublime]
 date: 2015-08-27 05:49:59
 ---

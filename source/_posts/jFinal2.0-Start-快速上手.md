@@ -1,5 +1,5 @@
 title: jFinal2.0 Start 快速上手
-categories: 旧文字
+categories: 技术栈
 tags: [java,jfinal]
 date: 2015-11-24 15:42:00
 ---

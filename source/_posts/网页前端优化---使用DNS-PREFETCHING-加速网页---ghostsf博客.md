@@ -1,5 +1,5 @@
 title: 网页前端优化 - 使用DNS PREFETCHING 加速网页 - ghostsf博客
-categories: 旧文字
+categories: 技术栈
 tags: [DNS PREFETCHING]
 date: 2016-11-26 09:29:12
 ---

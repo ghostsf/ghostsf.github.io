@@ -1,5 +1,5 @@
 title: 微博认证成功，特留念  ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [新浪微博]
 date: 2015-07-31 03:57:00
 ---

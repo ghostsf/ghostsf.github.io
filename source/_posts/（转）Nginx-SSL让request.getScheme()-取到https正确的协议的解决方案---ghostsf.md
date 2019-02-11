@@ -1,5 +1,5 @@
 title: （转）Nginx SSL让request.getScheme() 取到https正确的协议的解决方案 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [nginx,https]
 date: 2017-01-09 04:56:15
 ---

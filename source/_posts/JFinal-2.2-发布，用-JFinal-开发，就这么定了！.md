@@ -1,5 +1,5 @@
 title: JFinal 2.2 发布，用 JFinal 开发，就这么定了！
-categories: 旧文字
+categories: 技术栈
 tags: [jfinal]
 date: 2016-01-19 02:35:06
 ---

@@ -1,6 +1,6 @@
 title: discuz在common_member表中的密码无用，真正有用的在ucenter_members
-categories: 
-tags: []
+categories: 技术栈
+tags: [discuz]
 date: 2016-04-22 09:13:55
 ---
 common_member表中的password是随机生成的，没有用。

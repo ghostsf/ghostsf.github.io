@@ -1,5 +1,5 @@
 title: WAMP环境下建立多个网站的方法
-categories: 旧文字
+categories: 技术栈
 tags: [wamp]
 date: 2015-07-06 02:58:00
 ---

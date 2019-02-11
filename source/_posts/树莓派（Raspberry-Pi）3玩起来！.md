@@ -1,5 +1,5 @@
 title: 树莓派（Raspberry Pi）3玩起来！
-categories: 旧文字
+categories: 创作集
 tags: [raspberry pi]
 date: 2016-05-12 01:37:38
 ---

@@ -1,5 +1,5 @@
 title: python web开发——hello world
-categories: 旧文字
+categories: 技术栈
 tags: [python,python web]
 date: 2015-11-10 17:57:52
 ---

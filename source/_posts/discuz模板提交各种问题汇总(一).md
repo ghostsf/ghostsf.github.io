@@ -1,5 +1,5 @@
 title: discuz模板提交各种问题汇总(一)
-categories: 旧文字
+categories: 技术栈
 tags: [discuz模板发布,discuz模板]
 date: 2015-08-16 14:45:10
 ---

@@ -1,5 +1,5 @@
 title: Scrum 中的三大角色
-categories: 旧文字
+categories: 技术栈
 tags: [scrum]
 date: 2015-10-25 02:35:00
 ---

@@ -1,5 +1,5 @@
 title: 改善Java文档的理由、建议和技巧【转】
-categories: 旧文字
+categories: 技术栈
 tags: [java,java文档]
 date: 2015-11-24 15:39:48
 ---

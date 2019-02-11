@@ -1,6 +1,6 @@
 layout: false
 title: ORACLE ERROR ORA-01489 result of string concatenation is too long的解决方案
-categories: 旧文字
+categories: 技术栈
 tags: [oracle]
 date: 2017-02-15 02:23:31
 ---

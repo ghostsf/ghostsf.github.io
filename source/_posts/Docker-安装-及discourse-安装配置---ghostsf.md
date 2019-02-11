@@ -1,5 +1,5 @@
 title: Docker 安装 及discourse 安装配置 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [docker,discourse]
 date: 2017-01-06 09:38:00
 ---

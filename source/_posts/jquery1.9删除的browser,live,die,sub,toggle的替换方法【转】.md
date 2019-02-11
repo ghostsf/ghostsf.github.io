@@ -1,5 +1,5 @@
 title: jquery1.9删除的browser,live,die,sub,toggle的替换方法【转】
-categories: 旧文字
+categories: 技术栈
 tags: [jquery,前端开发]
 date: 2015-10-31 11:10:10
 ---

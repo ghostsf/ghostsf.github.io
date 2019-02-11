@@ -1,5 +1,5 @@
 title: Python之禅
-categories: 旧文字
+categories: 技术栈
 tags: [python]
 date: 2015-11-10 17:40:09
 ---

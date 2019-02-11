@@ -1,5 +1,5 @@
 title: WeUI再加上微信web开发者工具是如何让你爽到不要不要的
-categories: 旧文字
+categories: 技术栈
 tags: [微信二次开发]
 date: 2016-01-21 00:51:17
 ---

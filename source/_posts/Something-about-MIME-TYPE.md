@@ -1,5 +1,5 @@
 title: Something about MIME TYPE
-categories: 
+categories: 技术栈
 tags: []
 date: 2015-07-24 10:05:00
 ---

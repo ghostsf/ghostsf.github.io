@@ -1,5 +1,5 @@
 title: 关于git多账户的配置使用；多个github账号ssh key切换使用
-categories: 旧文字
+categories: 技术栈
 tags: [git]
 date: 2016-04-27 08:09:00
 ---

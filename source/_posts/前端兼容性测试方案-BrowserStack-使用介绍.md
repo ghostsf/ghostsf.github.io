@@ -1,5 +1,5 @@
 title: 前端兼容性测试方案 BrowserStack 使用介绍
-categories: 旧文字
+categories: 技术栈
 tags: [BrowserStack]
 date: 2017-05-26 05:20:00
 ---

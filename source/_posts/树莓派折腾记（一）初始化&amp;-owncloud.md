@@ -1,5 +1,5 @@
 title: 树莓派折腾记（一）初始化&amp; owncloud
-categories: 旧文字
+categories: 创作集
 tags: [树莓派]
 date: 2016-05-21 03:57:35
 ---

@@ -1,5 +1,5 @@
 title: Node.js 学习笔记 Start
-categories: 旧文字
+categories: 技术栈
 tags: [nodejs]
 date: 2015-12-05 05:52:10
 ---

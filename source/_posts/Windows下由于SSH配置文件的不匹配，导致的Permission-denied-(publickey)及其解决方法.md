@@ -1,5 +1,5 @@
 title: Windows下由于SSH配置文件的不匹配，导致的Permission denied (publickey)及其解决方法
-categories: 旧文字
+categories: 技术栈
 tags: [git,ssh]
 date: 2016-11-05 05:33:50
 ---

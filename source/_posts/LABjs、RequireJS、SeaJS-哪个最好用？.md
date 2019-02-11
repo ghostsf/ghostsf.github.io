@@ -1,5 +1,5 @@
 title: LABjs、RequireJS、SeaJS 哪个最好用？
-categories: 旧文字
+categories: 技术栈
 tags: [seajs]
 date: 2015-12-11 06:12:24
 ---

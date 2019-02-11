@@ -1,5 +1,5 @@
 title: 印象笔记Evernote出现同步失败的可能解决方案
-categories: 旧文字
+categories: 技术栈
 tags: [印象笔记]
 date: 2017-02-05 02:13:21
 ---

@@ -1,5 +1,5 @@
 title: tomcat配置虚拟目录映射
-categories: 旧文字
+categories: 技术栈
 tags: [tomcat]
 date: 2015-08-29 03:50:04
 ---

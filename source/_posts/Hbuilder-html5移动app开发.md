@@ -1,5 +1,5 @@
 title: Hbuilder html5移动app开发
-categories: 旧文字
+categories: 技术栈
 tags: [hbuilder,html5]
 date: 2015-09-16 14:22:36
 ---

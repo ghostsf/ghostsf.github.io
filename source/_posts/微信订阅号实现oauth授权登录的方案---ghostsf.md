@@ -1,5 +1,5 @@
 title: 微信订阅号实现oauth授权登录的方案 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [微信二次开发]
 date: 2017-01-03 02:20:00
 ---

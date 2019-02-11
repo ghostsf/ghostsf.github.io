@@ -1,5 +1,5 @@
 title: How to scrum
-categories: 旧文字
+categories: 技术栈
 tags: [scrum]
 date: 2015-10-25 02:37:16
 ---

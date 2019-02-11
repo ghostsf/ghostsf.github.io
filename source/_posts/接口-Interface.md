@@ -1,5 +1,5 @@
 title: 接口 Interface
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-10-21 04:56:00
 ---

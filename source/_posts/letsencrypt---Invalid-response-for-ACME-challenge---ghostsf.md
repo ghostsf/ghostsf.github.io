@@ -1,5 +1,5 @@
 title: letsencrypt - Invalid response for ACME challenge - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [nginx,ssl]
 date: 2017-02-07 10:01:17
 ---

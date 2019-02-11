@@ -1,5 +1,5 @@
 title: Centos7 LNMP 搭建 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [lnmp]
 date: 2016-10-31 06:08:27
 ---

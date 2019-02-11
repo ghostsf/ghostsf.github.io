@@ -1,7 +1,6 @@
 ---
 title: 赞赏
-date: 2014-02-15 23:11:10
-layout: false
+date: 2019-02-11 11:15:01
 ---
 
 ![](/images/donate.jpg)
@@ -16,7 +15,7 @@ layout: false
 
 -   [微信支付](https://i.imgur.com/aq6PtWa.png)
 -   [支付宝](https://i.imgur.com/wv1Pj2k.png)
--   [Paypal](https://www.paypal.me/DIYgod)
+-   [Paypal](https://www.paypal.me/ghostsf)
 -   比特币: 13CwQLHzPYm2tewNMSJBeArbbRM5NSmCD1
 
 #### 周期性赞助

@@ -1,5 +1,5 @@
 title: discuz 经典加密解密函数
-categories: 旧文字
+categories: 技术栈
 tags: [discuz]
 date: 2015-12-23 03:23:02
 ---

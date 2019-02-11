@@ -1,5 +1,5 @@
 title: Windows环境下重置mysql密码操作命令——mysql安全模式下可不用密码
-categories: 旧文字
+categories: 技术栈
 tags: [mysql]
 date: 2015-07-24 10:01:00
 ---

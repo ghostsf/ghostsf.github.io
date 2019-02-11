@@ -1,5 +1,5 @@
 title: Tomcat虚拟内存设置  
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-08-01 02:59:00
 ---

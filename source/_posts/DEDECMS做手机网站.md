@@ -1,5 +1,5 @@
 title: DEDECMS做手机网站
-categories: 旧文字
+categories: 技术栈
 tags: [dedecms,wap]
 date: 2015-07-07 02:34:18
 ---

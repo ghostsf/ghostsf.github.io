@@ -1,5 +1,5 @@
 title: 多态 Polymorphism
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-10-21 04:51:00
 ---

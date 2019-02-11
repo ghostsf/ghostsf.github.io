@@ -1,5 +1,5 @@
 title: 1024程序员节，写给改变世界的程序员 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [1024]
 date: 2016-10-23 14:16:00
 ---

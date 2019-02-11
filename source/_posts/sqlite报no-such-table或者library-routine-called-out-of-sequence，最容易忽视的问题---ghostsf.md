@@ -1,5 +1,5 @@
 title: sqlite报no such table或者library routine called out of sequence，最容易忽视的问题 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [sqlite]
 date: 2016-12-24 17:35:52
 ---

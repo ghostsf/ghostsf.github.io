@@ -1,5 +1,5 @@
 title: textarea中多出来了空格？html里不要换行不要空格 - ghostsf博客
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-07-27 10:30:00
 ---

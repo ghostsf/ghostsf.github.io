@@ -1,5 +1,5 @@
 title: PHP301跳转解决爬虫不更新www的问题
-categories: 旧文字
+categories: 技术栈
 tags: [php,301跳转]
 date: 2015-08-10 04:42:00
 ---

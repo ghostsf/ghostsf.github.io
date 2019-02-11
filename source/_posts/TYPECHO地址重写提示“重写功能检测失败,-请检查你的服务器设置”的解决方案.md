@@ -1,5 +1,5 @@
 title: TYPECHO地址重写提示“重写功能检测失败, 请检查你的服务器设置”的解决方案
-categories: 旧文字
+categories: 技术栈
 tags: [typecho]
 date: 2015-07-30 08:45:28
 ---

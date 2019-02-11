@@ -1,5 +1,5 @@
 title: web开发 - 单向数据绑定与双向数据绑定 - ghostsf博客
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-07-14 09:59:16
 ---

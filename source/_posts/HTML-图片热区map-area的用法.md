@@ -1,5 +1,5 @@
 title: HTML 图片热区map area的用法
-categories: 旧文字
+categories: 技术栈
 tags: [html,map,area]
 date: 2015-07-29 06:33:30
 ---

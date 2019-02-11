@@ -1,5 +1,5 @@
 title: pacakge-info.java
-categories: 旧文字
+categories: 技术栈
 tags: [pacakge-info.java]
 date: 2017-02-21 05:30:48
 ---

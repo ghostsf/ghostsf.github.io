@@ -1,5 +1,5 @@
 title: maven国内中央仓库推荐
-categories: 旧文字
+categories: 技术栈
 tags: [maven]
 date: 2016-05-10 07:22:00
 ---

@@ -1,10 +1,9 @@
-+++
-title =  "mac docker安装mssql"
-date = 2018-05-16T13:19:16+08:00
-tags = [
-    "mssql","docker","mac"
-]
-+++
+---
+title: "mac docker安装mssql"
+date: 2018-05-16T13:19:16+08:00
+tags: [ "mssql","docker","mac" ]
+categories: 技术栈
+---
 
 # mac docker安装mssql
 

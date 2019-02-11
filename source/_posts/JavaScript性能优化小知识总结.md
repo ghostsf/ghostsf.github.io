@@ -1,5 +1,5 @@
 title: JavaScript性能优化小知识总结
-categories: 
+categories: 技术栈
 tags: []
 date: 2015-06-23 07:38:00
 ---

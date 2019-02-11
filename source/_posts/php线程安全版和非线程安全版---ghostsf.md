@@ -1,5 +1,5 @@
 title: php线程安全版和非线程安全版 - ghostsf
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-10-27 05:54:01
 ---

@@ -1,5 +1,5 @@
 title: php连接mysql出现safe mode in effect errors的原因和解决方案
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-10-23 14:28:05
 ---

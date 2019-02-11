@@ -1,5 +1,5 @@
 title: mysql判断字段是否包含某个字符串的方法 - ghostsf博客
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-07-18 07:21:22
 ---

@@ -1,5 +1,5 @@
 title: wampserver下运行的网站如何在局域网共享访问
-categories: 旧文字
+categories: 技术栈
 tags: [wampserver]
 date: 2015-12-23 16:21:28
 ---
@@ -29,4 +29,3 @@ date: 2015-12-23 16:21:28
         Allow from ::1
         Allow from localhost
 
-  

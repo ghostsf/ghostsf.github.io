@@ -1,5 +1,5 @@
 title: 使用Jenkins配置自动化构建
-categories: 旧文字
+categories: 技术栈
 tags: [jenkins]
 date: 2016-04-19 04:55:00
 ---

@@ -1,5 +1,5 @@
 title: linux tomcat定时自动重启脚本 防止内存溢出等问题 - ghostsf博客
-categories: 旧文字
+categories: 技术栈
 tags: [tomcat]
 date: 2016-07-28 06:38:00
 ---

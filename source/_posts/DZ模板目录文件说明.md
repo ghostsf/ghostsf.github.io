@@ -1,6 +1,6 @@
 title: DZ模板目录文件说明
-categories: 
-tags: []
+categories: 技术栈
+tags: [discuz]
 date: 2015-09-24 07:53:29
 ---
 DZ模板目录文件说明：

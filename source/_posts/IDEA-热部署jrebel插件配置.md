@@ -1,5 +1,5 @@
 title: IDEA 热部署jrebel插件配置
-categories: 旧文字
+categories: 技术栈
 tags: [idea jrebel热部署]
 date: 2015-08-31 15:19:00
 ---

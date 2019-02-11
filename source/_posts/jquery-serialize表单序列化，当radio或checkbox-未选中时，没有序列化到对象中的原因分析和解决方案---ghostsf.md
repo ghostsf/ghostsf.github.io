@@ -1,5 +1,5 @@
 title: jquery serialize表单序列化，当radio或checkbox 未选中时，没有序列化到对象中的原因分析和解决方案 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [ghostsf_serialize]
 date: 2016-10-24 06:34:00
 ---

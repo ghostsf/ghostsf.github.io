@@ -1,5 +1,5 @@
 title: IntelliJ IDEA License Server 搭建教程 - 搭建自己的IntelliJ IDEA授权服务器
-categories: 旧文字
+categories: 技术栈
 tags: [idea]
 date: 2016-04-02 01:47:54
 ---

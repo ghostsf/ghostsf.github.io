@@ -1,5 +1,5 @@
 title: 关于SEO的一些知识
-categories: 旧文字
+categories: 技术栈
 tags: [seo]
 date: 2015-07-17 12:51:00
 ---

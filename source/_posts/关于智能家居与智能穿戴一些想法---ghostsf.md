@@ -1,5 +1,5 @@
 title: 关于智能家居与智能穿戴一些想法 - ghostsf
-categories: 
+categories: 分享境
 tags: []
 date: 2016-12-21 05:34:00
 ---

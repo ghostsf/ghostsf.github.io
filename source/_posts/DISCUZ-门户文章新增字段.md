@@ -1,5 +1,5 @@
 title: DISCUZ 门户文章新增字段
-categories: 旧文字
+categories: 技术栈
 tags: [php,discuz]
 date: 2015-11-12 13:53:00
 ---

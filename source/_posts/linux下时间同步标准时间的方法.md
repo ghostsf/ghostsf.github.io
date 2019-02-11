@@ -1,5 +1,5 @@
 title: linux下时间同步标准时间的方法
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-03-16 03:06:15
 ---

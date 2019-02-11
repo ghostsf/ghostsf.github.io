@@ -1,7 +1,6 @@
----
 title: "Idea Jrebel Plugin for Free"
 date: 2017-09-20
-description: From my.jrebel.com
+categories: 技术栈
 ---
 
 # 0x00 Installing the JRebel plugin

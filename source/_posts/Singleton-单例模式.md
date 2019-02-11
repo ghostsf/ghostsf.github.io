@@ -1,5 +1,5 @@
 title: Singleton 单例模式
-categories: 旧文字
+categories: 技术栈
 tags: [java,单例模式]
 date: 2015-10-18 05:26:25
 ---

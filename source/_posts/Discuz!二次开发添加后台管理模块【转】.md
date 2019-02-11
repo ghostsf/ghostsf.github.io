@@ -1,5 +1,5 @@
 title: Discuz!二次开发添加后台管理模块【转】
-categories: 旧文字
+categories: 技术栈
 tags: [discuz]
 date: 2015-11-23 03:18:17
 ---

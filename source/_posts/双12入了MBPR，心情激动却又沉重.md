@@ -1,5 +1,5 @@
 title: 双12入了MBPR，心情激动却又沉重
-categories: 现如今
+categories: 事件簿
 tags: [mbpr]
 date: 2017-12-15 05:57:16
 ---

@@ -1,5 +1,5 @@
 title: JFinal笔记（一）
-categories: 旧文字
+categories: 技术栈
 tags: [jfinal]
 date: 2016-03-09 01:42:00
 ---

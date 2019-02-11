@@ -1,5 +1,5 @@
 title: 入手DigitalOcean云主机
-categories: 旧文字
+categories: 技术栈
 tags: [digitalocean vps]
 date: 2015-09-17 14:20:31
 ---

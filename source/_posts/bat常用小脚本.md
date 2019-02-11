@@ -1,6 +1,6 @@
 title: bat常用小脚本
-categories: 
-tags: []
+categories: thinkphp
+tags: [bat]
 date: 2016-12-11 14:15:11
 ---
 关机脚本

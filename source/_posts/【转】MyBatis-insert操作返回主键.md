@@ -1,5 +1,5 @@
 title: 【转】MyBatis insert操作返回主键
-categories: 旧文字
+categories: 技术栈
 tags: [mybatis]
 date: 2016-01-17 07:49:33
 ---

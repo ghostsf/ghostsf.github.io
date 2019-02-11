@@ -1,5 +1,5 @@
 title: 图床神器 iPic 开放上传服务 Mark
-categories: 旧文字
+categories: 技术栈
 tags: [图床]
 date: 2016-06-06 01:30:55
 ---

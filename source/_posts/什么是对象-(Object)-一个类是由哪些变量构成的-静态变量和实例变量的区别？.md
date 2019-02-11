@@ -1,5 +1,5 @@
 title: 什么是对象 (Object)?一个类是由哪些变量构成的?静态变量和实例变量的区别？
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-10-18 05:20:56
 ---

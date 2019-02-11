@@ -1,5 +1,5 @@
 title: Android Studio——Gradle基础
-categories: 旧文字
+categories: 技术栈
 tags: [android studio,gradle]
 date: 2015-07-30 07:12:39
 ---

@@ -1,5 +1,5 @@
 title: 1024程序员节到了，程序员务必人手一份装逼指南 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [1024]
 date: 2016-10-23 14:00:00
 ---

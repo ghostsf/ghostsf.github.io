@@ -1,5 +1,5 @@
 title: 新手怎么做博客？认真写博文，顺便做好SEO — ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [seo]
 date: 2016-09-24 00:45:00
 ---

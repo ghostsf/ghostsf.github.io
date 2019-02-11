@@ -1,6 +1,6 @@
 layout: false
 title: MySQL Access denied for user ‘root’@’localhost’ (using password YES)问题的解决方案
-categories: 旧文字
+categories: 技术栈
 tags: [mysql]
 date: 2015-10-14 15:16:14
 ---

@@ -1,5 +1,5 @@
 title: 树莓派折腾记（二）搭建SVN代码托管服务
-categories: 旧文字
+categories: 创作集
 tags: [树莓派]
 date: 2016-10-15 15:11:00
 ---

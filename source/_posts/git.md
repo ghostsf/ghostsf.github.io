@@ -1,6 +1,7 @@
 ---
 title: "Git"
 date: 2018-05-25T10:40:26+08:00
+categories: 技术栈
 tags: [ "git"]
 draft: false
 ---

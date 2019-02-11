@@ -1,5 +1,5 @@
 title: linux删除服务器上tomcat或apache等log日志shell脚本 - ghostsf
-categories: 
+categories: 技术栈
 tags: []
 date: 2017-03-13 08:48:51
 ---

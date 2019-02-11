@@ -1,5 +1,5 @@
 title: Discuz门户DIY模块模板如何自定义语法标签
-categories: 旧文字
+categories: 技术栈
 tags: [discuz]
 date: 2015-11-30 05:51:25
 ---

@@ -1,5 +1,5 @@
 title: discuz论坛模板制作系列——X3后默认主导航固定的修改方案
-categories: 旧文字
+categories: 技术栈
 tags: [discuz模板制作]
 date: 2015-08-12 03:49:00
 ---

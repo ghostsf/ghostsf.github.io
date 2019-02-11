@@ -1,5 +1,5 @@
 title: Java泛型
-categories: 旧文字
+categories: 技术栈
 tags: [java,泛型]
 date: 2015-07-17 04:42:40
 ---

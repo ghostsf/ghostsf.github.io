@@ -1,5 +1,5 @@
 title: 支付宝个人收款如何接入自己的网站应用？ - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [支付宝]
 date: 2017-01-07 14:28:00
 ---

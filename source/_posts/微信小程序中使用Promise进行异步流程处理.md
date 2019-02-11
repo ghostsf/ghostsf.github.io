@@ -1,5 +1,5 @@
 title: 微信小程序中使用Promise进行异步流程处理
-categories: 旧文字
+categories: 技术栈
 tags: [微信小程序]
 date: 2016-11-10 05:05:58
 ---

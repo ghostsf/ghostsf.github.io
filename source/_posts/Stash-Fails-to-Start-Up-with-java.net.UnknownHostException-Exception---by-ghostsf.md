@@ -1,5 +1,5 @@
 title: Stash Fails to Start Up with java.net.UnknownHostException Exception - by ghostsf
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-07-27 01:26:16
 ---

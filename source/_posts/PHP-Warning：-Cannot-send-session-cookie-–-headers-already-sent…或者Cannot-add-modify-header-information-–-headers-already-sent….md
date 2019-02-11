@@ -1,5 +1,5 @@
 title: PHP Warning： Cannot send session cookie – headers already sent…或者Cannot add/modify header information – headers already sent…
-categories: 
+categories: 技术栈
 tags: []
 date: 2015-09-10 16:42:00
 ---

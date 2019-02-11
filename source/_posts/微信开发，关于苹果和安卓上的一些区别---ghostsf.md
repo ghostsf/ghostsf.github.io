@@ -1,5 +1,5 @@
 title: 微信开发，关于苹果和安卓上的一些区别 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [微信二次开发]
 date: 2016-12-22 09:09:11
 ---

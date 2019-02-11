@@ -1,5 +1,5 @@
 title: Linux启用SELinux导致类似Discuz之类的网站应用其目录不可写的解决方案
-categories: 旧文字
+categories: 技术栈
 tags: [selinux]
 date: 2016-10-16 14:11:00
 ---

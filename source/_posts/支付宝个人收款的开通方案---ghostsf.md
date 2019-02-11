@@ -1,5 +1,5 @@
 title: 支付宝个人收款的开通方案 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [支付宝]
 date: 2017-01-06 14:07:21
 ---

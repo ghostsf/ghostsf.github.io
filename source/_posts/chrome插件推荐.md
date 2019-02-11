@@ -1,5 +1,5 @@
 title: Chrome插件推荐
-categories: 旧文字
+categories: 技术栈
 tags: [chrome插件]
 date: 2017-05-26 05:44:00
 ---

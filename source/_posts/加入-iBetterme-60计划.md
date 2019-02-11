@@ -1,5 +1,5 @@
 title: 加入 iBetterme 60计划
-categories: 旧文字
+categories: 技术栈
 tags: [ibetterme]
 date: 2016-01-12 14:30:05
 ---

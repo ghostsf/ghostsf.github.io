@@ -1,5 +1,5 @@
 title: Centos6安装中文字体的方法
-categories: 旧文字
+categories: 技术栈
 tags: [Centos]
 date: 2017-02-16 09:00:00
 ---

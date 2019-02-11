@@ -1,5 +1,5 @@
 title: 情不自禁买了台Kindle
-categories: 
+categories: 事件簿
 tags: []
 date: 2016-01-04 04:42:50
 ---

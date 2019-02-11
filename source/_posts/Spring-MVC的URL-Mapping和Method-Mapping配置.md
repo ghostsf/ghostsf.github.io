@@ -1,5 +1,5 @@
 title: Spring MVC的URL Mapping和Method Mapping配置
-categories: 旧文字
+categories: 技术栈
 tags: [spring mvc]
 date: 2015-09-19 03:46:42
 ---

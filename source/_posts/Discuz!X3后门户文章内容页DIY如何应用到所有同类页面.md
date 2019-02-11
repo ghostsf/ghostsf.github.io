@@ -1,5 +1,5 @@
 title: Discuz!X3后门户文章内容页DIY如何应用到所有同类页面
-categories: 旧文字
+categories: 技术栈
 tags: [discuz]
 date: 2015-11-30 03:29:24
 ---

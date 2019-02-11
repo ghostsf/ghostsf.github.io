@@ -1,5 +1,5 @@
 title: Discuz模板开发技术手册
-categories: 旧文字
+categories: 技术栈
 tags: [discuz模板制作,discuz]
 date: 2016-06-18 09:40:00
 ---

@@ -1,5 +1,5 @@
 title: 封装 Encapsulation
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-10-18 05:24:58
 ---

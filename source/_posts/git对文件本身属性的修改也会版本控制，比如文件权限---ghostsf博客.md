@@ -1,5 +1,5 @@
 title: git对文件本身属性的修改也会版本控制，比如文件权限 - ghostsf博客
-categories: 旧文字
+categories: 技术栈
 tags: [git]
 date: 2016-09-07 06:25:00
 ---

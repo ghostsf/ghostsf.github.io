@@ -1,5 +1,5 @@
 title: java.lang.reflect.InvocationTargetException - ghostsf博客
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-07-20 05:06:00
 ---

@@ -1,5 +1,5 @@
 title: spring security reference译
-categories: 旧文字
+categories: 技术栈
 tags: [spring security,英语,翻译]
 date: 2015-07-13 03:12:04
 ---
@@ -85,4 +85,3 @@ Security是一个开放的平台，编写自己的验证机制是十分简单的
 
 
 
- 

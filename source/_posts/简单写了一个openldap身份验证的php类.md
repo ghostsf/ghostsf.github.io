@@ -1,5 +1,5 @@
 title: 简单写了一个openldap身份验证的php类
-categories: 旧文字
+categories: 技术栈
 tags: [ldap]
 date: 2016-04-09 03:47:29
 ---

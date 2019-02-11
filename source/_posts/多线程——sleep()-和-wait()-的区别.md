@@ -1,5 +1,5 @@
 title: 多线程——sleep() 和 wait() 的区别
-categories: 旧文字
+categories: 技术栈
 tags: [java]
 date: 2015-10-21 14:23:36
 ---

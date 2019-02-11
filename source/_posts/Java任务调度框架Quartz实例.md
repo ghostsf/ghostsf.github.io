@@ -1,5 +1,5 @@
 title: Java任务调度框架Quartz实例
-categories: 旧文字
+categories: 技术栈
 tags: [quartz]
 date: 2016-04-14 01:55:00
 ---

@@ -1,5 +1,5 @@
 title: GPS定位地图API都做了加密处理
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-02-02 16:17:00
 ---

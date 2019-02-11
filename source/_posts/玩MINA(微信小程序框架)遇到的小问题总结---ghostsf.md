@@ -1,5 +1,5 @@
 title: 玩MINA(微信小程序框架)遇到的小问题总结 - ghostsf
-categories: 旧文字
+categories: 技术栈
 tags: [微信小程序,MINA]
 date: 2016-11-11 06:00:41
 ---

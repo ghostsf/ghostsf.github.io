@@ -1,5 +1,5 @@
 title: Java设计模式——工厂模式
-categories: 旧文字
+categories: 技术栈
 tags: [设计模式]
 date: 2015-07-17 06:15:28
 ---

@@ -1,5 +1,5 @@
 title: fsockopen函数被PHPDDOS利用攻击的解决办法【转】
-categories: 旧文字
+categories: 技术栈
 tags: [php,fsockopen]
 date: 2015-11-02 16:21:40
 ---

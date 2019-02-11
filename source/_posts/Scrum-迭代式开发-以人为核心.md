@@ -1,5 +1,5 @@
 title: Scrum 迭代式开发 以人为核心
-categories: 旧文字
+categories: 技术栈
 tags: [scrum]
 date: 2015-10-25 02:33:41
 ---

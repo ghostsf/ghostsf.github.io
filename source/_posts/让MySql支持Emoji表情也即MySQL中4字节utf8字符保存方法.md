@@ -1,5 +1,5 @@
 title: 让MySql支持Emoji表情也即MySQL中4字节utf8字符保存方法
-categories: 
+categories: 技术栈
 tags: []
 date: 2016-04-12 10:18:15
 ---

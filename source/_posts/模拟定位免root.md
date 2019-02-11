@@ -1,5 +1,5 @@
 title: 模拟定位免root
-categories: 
+categories: 技术栈
 tags: []
 date: 2018-05-04 05:04:32
 ---

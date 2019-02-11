@@ -1,5 +1,5 @@
 title: IDEA实现热部署的简单实现方式
-categories: 旧文字
+categories: 技术栈
 tags: [idea,热部署]
 date: 2015-08-27 02:04:21
 ---

@@ -1,5 +1,5 @@
 title: seaJs的模块定义、模块加载及模块依赖关系
-categories: 旧文字
+categories: 技术栈
 tags: [seajs,模块加载框架]
 date: 2015-07-17 09:03:00
 ---

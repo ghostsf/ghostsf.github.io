@@ -1,5 +1,5 @@
 title: 利用PHPMailer处理邮件发送
-categories: 
+categories: 技术栈
 tags: []
 date: 2015-12-23 03:25:31
 ---
