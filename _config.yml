@@ -93,3 +93,8 @@ js_minifier:
 
 image_minifier:
   enable: false
+
+sitemap:
+  path: sitemap.xml
+baidusitemap:
+  path: baidusitemap.xml
