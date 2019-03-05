@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/themes/xiao/source/images/dsl-avatar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/xiao/source/images/dsl.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/git.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/git.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/mac-fall.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/mac-fall.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xiao" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xiao/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xiao/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_mai.styl" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_mai.styl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xiao/source/images/header-mai.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,11 +21,12 @@
     <session id="-531570589">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages">
@@ -44,12 +43,13 @@
           <entry key="html" value="2" />
           <entry key="ico" value="2" />
           <entry key="jpeg" value="1" />
-          <entry key="jpg" value="27" />
+          <entry key="jpg" value="29" />
           <entry key="js" value="5" />
           <entry key="json" value="6" />
           <entry key="map" value="2" />
-          <entry key="md" value="169" />
+          <entry key="md" value="170" />
           <entry key="png" value="32" />
+          <entry key="styl" value="1" />
           <entry key="swig" value="6" />
           <entry key="yml" value="19" />
         </counts>
@@ -58,12 +58,13 @@
         <counts>
           <entry key="Git file" value="5" />
           <entry key="HTML" value="2" />
-          <entry key="Image" value="62" />
+          <entry key="Image" value="64" />
           <entry key="JSON" value="7" />
           <entry key="JavaScript" value="5" />
-          <entry key="Markdown" value="169" />
+          <entry key="Markdown" value="170" />
           <entry key="PLAIN_TEXT" value="8" />
           <entry key="SourceMap" value="2" />
+          <entry key="Stylus" value="1" />
           <entry key="YAML" value="19" />
         </counts>
       </usages-collector>
@@ -75,6 +76,7 @@
           <entry key="js" value="24" />
           <entry key="json" value="77" />
           <entry key="md" value="2110" />
+          <entry key="styl" value="3" />
           <entry key="swig" value="15" />
           <entry key="txt" value="237" />
           <entry key="yml" value="320" />
@@ -87,62 +89,14 @@
           <entry key="JavaScript" value="24" />
           <entry key="Markdown" value="2110" />
           <entry key="PLAIN_TEXT" value="265" />
+          <entry key="Stylus" value="3" />
           <entry key="YAML" value="320" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/xiao/layout/post.swig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="206" column="18" lean-forward="true" selection-start-line="206" selection-start-column="18" selection-end-line="206" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_macro/post.swig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="104" column="23" lean-forward="true" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/xiao/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -162,6 +116,7 @@
       <find>sitemap</find>
       <find>post_wordcount</find>
       <find>wordcount</find>
+      <find>header-mai</find>
     </findStrings>
     <replaceStrings>
       <replace>技术栈</replace>
@@ -186,7 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_posts/一个人没出息的十二个特征，你有几个？.md" />
         <option value="$PROJECT_DIR$/source/_posts/一串神奇的数字表白代码---情人节必备.md" />
         <option value="$PROJECT_DIR$/source/_posts/一座城市.md" />
         <option value="$PROJECT_DIR$/source/_posts/一张图说明Java工程师学习线路图.md" />
@@ -237,6 +191,7 @@
         <option value="$PROJECT_DIR$/source/_posts/git.md" />
         <option value="$PROJECT_DIR$/themes/xiao/_config.yml" />
         <option value="$PROJECT_DIR$/scaffolds/post.md" />
+        <option value="$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_mai.styl" />
       </list>
     </option>
   </component>
@@ -290,6 +245,21 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
               <item name="xiao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="xiao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="xiao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -348,7 +318,8 @@
       <workItem from="1549900039802" duration="1056000" />
       <workItem from="1550636420657" duration="2517000" />
       <workItem from="1551101222381" duration="1311000" />
-      <workItem from="1551347306349" duration="7012000" />
+      <workItem from="1551347306349" duration="10343000" />
+      <workItem from="1551750441656" duration="1457000" />
     </task>
     <task id="LOCAL-00001" summary="fix: change travis">
       <created>1549706148453</created>
@@ -501,13 +472,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35051000" />
+    <option name="totallyTimeSpent" value="39839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2145871" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2145871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -520,7 +490,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Apicloud" order="8" weight="0.32977587" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.7321238" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21985058" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21985058" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -583,36 +553,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add sitemap" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/树莓派折腾记（二）搭建SVN代码托管服务.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/树莓派（Raspberry-Pi）3玩起来！.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/模拟定位免root.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="23">
-            <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/爱江南.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -878,12 +818,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/xiao/source/js/sagiri.min.js.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
           <caret column="206243" selection-start-column="206243" selection-end-column="206243" />
         </state>
       </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -947,28 +887,46 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/xiao/src/affix.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state relative-caret-position="3312">
+          <caret line="144" column="41" selection-start-line="144" selection-start-column="41" selection-end-line="144" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_macro/post.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2507">
+          <caret line="109" column="53" lean-forward="true" selection-start-line="109" selection-start-column="53" selection-end-line="109" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/mac-fall.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="437">
-            <caret line="19" selection-start-line="19" selection-end-line="19" selection-end-column="11" />
+          <first_editor relative-caret-position="76">
+            <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
         </state>
       </provider>
     </entry>
@@ -979,27 +937,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_macro/post.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="104" column="23" lean-forward="true" selection-start-line="104" selection-start-column="23" selection-end-line="104" selection-end-column="23" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/header-mai.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/dsl.jpg">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
+    <entry file="file://$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_mai.styl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="206" column="18" lean-forward="true" selection-start-line="206" selection-start-column="18" selection-end-line="206" selection-end-column="18" />
+        <state relative-caret-position="183">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
