@@ -11,3 +11,8 @@
 + 技术栈
 + 文艺斋
 + 闲言语
+
+
+> add to slack for monitoring
+
+
