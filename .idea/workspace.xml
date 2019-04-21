@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="add sitemap">
-      <change afterPath="$PROJECT_DIR$/hexo.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sourcehex/_posts/git-tips.md" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -110,73 +108,39 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="7" />
+          <entry key="md" value="20" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="7" />
+          <entry key="Markdown" value="20" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="md" value="3" />
+          <entry key="gitignore" value="1" />
+          <entry key="jpg" value="1" />
+          <entry key="json" value="1" />
+          <entry key="md" value="4" />
+          <entry key="png" value="3" />
+          <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="3" />
+          <entry key="Image" value="4" />
+          <entry key="JSON" value="1" />
+          <entry key="Markdown" value="4" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hexo.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret selection-end-column="25" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/sourcehex/_posts/git-tips.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="150">
-                <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -198,17 +162,20 @@
       <find>wordcount</find>
       <find>header-mai</find>
       <find>card</find>
+      <find>git-tips</find>
+      <find>git.png</find>
+      <find>sourcehex</find>
     </findStrings>
     <replaceStrings>
       <replace>技术栈</replace>
       <replace>ghostsf</replace>
     </replaceStrings>
     <dirStrings>
-      <dir>$PROJECT_DIR$/source/_posts</dir>
       <dir>$PROJECT_DIR$/source</dir>
       <dir>$PROJECT_DIR$/themes</dir>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/themes/xiao</dir>
+      <dir>$PROJECT_DIR$/source/_posts</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -270,9 +237,9 @@
         <option value="$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_mai.styl" />
         <option value="$PROJECT_DIR$/themes/xiao/_config.yml" />
         <option value="$PROJECT_DIR$/hexo.md" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/sourcehex/_posts/git-tips.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -294,10 +261,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="883" />
-    <option name="y" value="282" />
-    <option name="width" value="1698" />
-    <option name="height" value="1041" />
+    <option name="x" value="127" />
+    <option name="y" value="203" />
+    <option name="width" value="2088" />
+    <option name="height" value="1133" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -323,11 +290,6 @@
               <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
-            <path>
-              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -345,6 +307,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/images/post" />
       <recent name="$PROJECT_DIR$/themes/xiao/source/images" />
       <recent name="$PROJECT_DIR$/source" />
     </key>
@@ -386,7 +349,7 @@
       <workItem from="1554773111250" duration="1160000" />
       <workItem from="1555237668914" duration="1743000" />
       <workItem from="1555723084028" duration="222000" />
-      <workItem from="1555825089311" duration="1824000" />
+      <workItem from="1555825089311" duration="2981000" />
     </task>
     <task id="LOCAL-00001" summary="fix: change travis">
       <created>1549706148453</created>
@@ -546,13 +509,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47969000" />
+    <option name="totallyTimeSpent" value="49126000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="883" y="282" width="1698" height="1041" extended-state="0" />
-    <editor active="true" />
+    <frame x="127" y="203" width="2088" height="1133" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2063208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16739236" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -565,7 +527,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Apicloud" order="8" weight="0.32977587" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.73145247" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3174946" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.28880158" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -630,18 +592,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="add to slack for monitoring" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source/_posts/逆境中成长...md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/让我留在你身边.md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/说一说Java.md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/阳光明媚的一天，能否充实地度过呢？.md" />
-    <entry file="file://$PROJECT_DIR$/source/_posts/驿站.md" />
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/青玉案.md" />
     <entry file="file://$PROJECT_DIR$/source/_posts/（转）Nginx-SSL让request.getScheme()-取到https正确的协议的解决方案---ghostsf.md" />
     <entry file="file://$PROJECT_DIR$/source/404/index.md" />
@@ -782,27 +732,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/baidusitemap.xml" />
     <entry file="file://$PROJECT_DIR$/public/sitemap.xml" />
-    <entry file="file://$PROJECT_DIR$/hexo.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-column="25" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/git.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -819,7 +750,34 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="150">
-            <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
+            <caret line="10" column="5" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="5" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/message0.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/weibo2login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/post/git.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/post/gitcz.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hexo.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -830,12 +788,26 @@
     <entry file="file://$PROJECT_DIR$/sourcehex/_posts/git-tips.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
