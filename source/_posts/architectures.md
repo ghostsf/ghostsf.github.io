@@ -1,17 +1,14 @@
 ---
 title: 四种软件架构：Serverless架构、微服务架构、分布式架构、单体架构
 copyright: true
-permalink: 1
-top: 0
 date: 2019-04-03 09:44:55
-tags:
-categories:
-password:
+tags: 架构
+categories: 技术栈
 ---
 
 如果一个软件开发人员，不了解软件架构的演进，会制约技术的选型和开发人员的生存、晋升空间。这里我列举了目前主要的四种软件架构以及他们的优缺点，希望能够帮助软件开发人员拓展知识面。
 
-
+<!--more-->
 
 一、单体架构
 

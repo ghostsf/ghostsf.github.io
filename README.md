@@ -13,6 +13,3 @@
 + 闲言语
 
 
-> add to slack for monitoring
-
-

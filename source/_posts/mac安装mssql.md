@@ -18,6 +18,7 @@ categories: 技术栈
   https://www.docker.com/enterprise-edition
 
 ### 2.设置阿里云镜像
+<!--more-->
 
 关于加速器的地址，你只需要登录[容器Hub服务](https://cr.console.aliyun.com/)的控制台，左侧的加速器帮助页面就会显示为你独立分配的加速地址。
 
