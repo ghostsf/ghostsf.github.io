@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="update old post">
+    <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/xiao" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xiao/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig" beforeDir="false" afterPath="$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -101,59 +100,60 @@
     <session id="1402430884">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="js" value="1" />
-          <entry key="json" value="1" />
+          <entry key="json" value="2" />
           <entry key="md" value="127" />
-          <entry key="txt" value="68" />
-          <entry key="yml" value="10" />
+          <entry key="txt" value="75" />
+          <entry key="yml" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JSON" value="1" />
+          <entry key="JSON" value="2" />
           <entry key="JavaScript" value="1" />
           <entry key="Markdown" value="127" />
-          <entry key="PLAIN_TEXT" value="68" />
-          <entry key="YAML" value="10" />
+          <entry key="PLAIN_TEXT" value="75" />
+          <entry key="YAML" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="html" value="5" />
+          <entry key="html" value="7" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="4" />
-          <entry key="json" value="2" />
+          <entry key="js" value="5" />
+          <entry key="json" value="3" />
           <entry key="map" value="1" />
           <entry key="md" value="27" />
           <entry key="png" value="3" />
           <entry key="styl" value="1" />
-          <entry key="swig" value="4" />
+          <entry key="swig" value="6" />
           <entry key="xml" value="2" />
-          <entry key="yml" value="10" />
+          <entry key="yml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="5" />
+          <entry key="HTML" value="7" />
           <entry key="Image" value="5" />
-          <entry key="JSON" value="2" />
-          <entry key="JavaScript" value="4" />
+          <entry key="JSON" value="3" />
+          <entry key="JavaScript" value="5" />
           <entry key="Markdown" value="27" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="8" />
           <entry key="SourceMap" value="1" />
           <entry key="Stylus" value="1" />
           <entry key="XML" value="2" />
-          <entry key="YAML" value="10" />
+          <entry key="YAML" value="11" />
         </counts>
       </usages-collector>
     </session>
@@ -161,42 +161,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="90">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
+        <entry file="file://$PROJECT_DIR$/themes/xiao/src/online.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="210" column="33" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="33" />
+            <state relative-caret-position="203">
+              <caret line="102" column="36" lean-forward="true" selection-start-line="102" selection-start-column="36" selection-end-line="102" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="90">
-                <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
+        <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="177">
+              <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_third-party/analytics/busuanzi-counter.swig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="281">
+              <caret line="536" column="15" selection-start-line="536" selection-start-column="11" selection-end-line="536" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -205,9 +209,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>layout</find>
-      <find>deploy</find>
-      <find>xiao</find>
       <find>donate</find>
       <find>旧文字</find>
       <find>站内搜索</find>
@@ -234,6 +235,10 @@
       <find>header</find>
       <find>auto_excerpt</find>
       <find>custom-logo-site-title</find>
+      <find>hexo-wordcount</find>
+      <find>online</find>
+      <find>online-count</find>
+      <find>busuanzi-count</find>
     </findStrings>
     <replaceStrings>
       <replace>技术栈</replace>
@@ -248,7 +253,7 @@
     </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/themes/xiao" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -300,15 +305,15 @@
         <option value="$PROJECT_DIR$/source/_posts/mac安装mssql.md" />
         <option value="$PROJECT_DIR$/source/_posts/外婆.md" />
         <option value="$PROJECT_DIR$/source/_posts/驿站.md" />
-        <option value="$PROJECT_DIR$/themes/xiao/_config.yml" />
         <option value="$PROJECT_DIR$/themes/xiao/source/css/main.styl" />
         <option value="$PROJECT_DIR$/source/_posts/Discuz!-全局变量-$_G详解.md" />
         <option value="$PROJECT_DIR$/source/_posts/Discuz!-常用全局变量函数表.md" />
         <option value="$PROJECT_DIR$/source/_posts/Discuz!二次开发添加后台管理模块【转】.md" />
         <option value="$PROJECT_DIR$/source/_posts/jquery-serialize表单序列化，当radio或checkbox-未选中时，没有序列化到对象中的原因分析和解决方案---ghostsf.md" />
-        <option value="$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig" />
         <option value="$PROJECT_DIR$/scaffolds/post.md" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig" />
+        <option value="$PROJECT_DIR$/themes/xiao/_config.yml" />
       </list>
     </option>
   </component>
@@ -325,6 +330,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/package.json" />
+      <path value="$PROJECT_DIR$/public/lib/velocity-animate/package.json" />
       <path value="$PROJECT_DIR$/themes/xiao/package.json" />
       <path value="$PROJECT_DIR$/themes/xiao/source/lib/velocity-animate/package.json" />
     </packageJsonPaths>
@@ -352,6 +358,17 @@
               <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="scaffolds" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="xiao" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -424,6 +441,7 @@
       <workItem from="1555237668914" duration="1743000" />
       <workItem from="1555723084028" duration="222000" />
       <workItem from="1555825089311" duration="4813000" />
+      <workItem from="1556374721968" duration="281000" />
     </task>
     <task id="LOCAL-00001" summary="fix: change travis">
       <created>1549706148453</created>
@@ -614,31 +632,39 @@
       <option name="project" value="LOCAL" />
       <updated>1556373414255</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="remove hexo-wordcount">
+      <created>1556374203516</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1556374203516</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54561000" />
+    <option name="totallyTimeSpent" value="55232000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="190" y="152" width="1929" height="1055" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2845912" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2845912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Apicloud" order="8" weight="0.32977587" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.4351064" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.56170213" />
+      <window_info anchor="bottom" id="Version Control" order="9" visible="true" weight="0.4351064" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.56170213" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -703,24 +729,10 @@
     <MESSAGE value="add git-tips" />
     <MESSAGE value="update old post" />
     <MESSAGE value="remove site-title" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove site-title" />
+    <MESSAGE value="remove hexo-wordcount" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove hexo-wordcount" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/xiao/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="24" column="36" lean-forward="true" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/mac-fall.md" />
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/post.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="5" column="49" selection-start-line="5" selection-start-column="49" selection-end-line="5" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/header-mai.jpg" />
     <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/dsl.jpg" />
     <entry file="file://$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_mai.styl">
@@ -927,9 +939,6 @@
     <entry file="file://$PROJECT_DIR$/public/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="55">
@@ -1024,13 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="55" column="33" lean-forward="true" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/Discuz!二次开发添加后台管理模块【转】.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1050,13 +1052,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="210" column="33" selection-start-line="210" selection-start-column="33" selection-end-line="210" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scaffolds/post.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
@@ -1069,10 +1064,52 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="133" column="13" selection-start-line="133" selection-start-column="4" selection-end-line="133" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/src/online.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="102" column="36" lean-forward="true" selection-start-line="102" selection-start-column="36" selection-end-line="102" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_partials/header.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="44" column="36" lean-forward="true" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_third-party/analytics/busuanzi-counter.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="536" column="15" selection-start-line="536" selection-start-column="11" selection-end-line="536" selection-end-column="15" />
         </state>
       </provider>
     </entry>
