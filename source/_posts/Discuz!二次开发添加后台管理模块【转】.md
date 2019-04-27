@@ -2,6 +2,7 @@ title: Discuz!二次开发添加后台管理模块【转】
 categories: 技术栈
 tags: [discuz]
 date: 2015-11-23 03:18:17
+layout: false
 ---
 > 现在Discuz论坛越来越火热，那么Discuz!二次开发如何添加后台管理模块？
 

@@ -2,6 +2,7 @@ title: Discuz! 全局变量 $_G详解
 categories: 技术栈
 tags: [discuz模板制作]
 date: 2015-09-17 11:06:14
+layout: false
 ---
 $_G 保存了 discuz! 中所有的预处理数据
 缓存能够很好的提高程序的性能，一些配置数据没必要每次都查询数据库，只要在修改了的时候更新下缓存即可。

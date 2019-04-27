@@ -3,7 +3,7 @@ categories: 技术栈
 tags: [ghostsf_serialize]
 date: 2016-10-24 06:34:00
 ---
-![1.jpg][1]
+
 
 相信很多人都用过jq的表单序列化serialize()方法，因为这能很方便地帮你把表单里所有的非禁用输入控件序列化为 key/value 对象，不需要你再去一个个地拼接参数了。
 
@@ -76,4 +76,20 @@ ghostsf心血来潮写了一个jq拓展，代码如下：（并不要脸地命�
 
 这样就很轻松地解决此问题了。自己动手丰衣足食。
 
-  [1]: http://www.ghostsf.com/usr/uploads/2016/10/4129815362.jpg
+
+后续：
+
+代码更新优化：
+
+
+`$.fn.my_serialize_array = function () {
+    var my_serialize_array = this.serializeArray();//官方函数只包含勾选的checkbox，并且值默认为on
+    var not_checked_object=$('input[type=checkbox]:not(:checked)', this);//this指调用这个函数的form
+    $.each(not_checked_object, function () {
+        if (!my_serialize_array.hasOwnProperty(this.name)){//this指没选中的一个object
+            my_serialize_array.push({name: this.name, value: "off"});
+        }
+    });
+    console.log(my_serialize_array);
+    return my_serialize_array;
+};`
