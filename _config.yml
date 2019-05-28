@@ -8,7 +8,7 @@ subtitle:
 description: 文艺IT男,全栈菜鸟
 keywords: 文艺IT男,全栈菜鸟
 author: ghostsf
-language: zh-Hans
+language: zh-CN
 timezone:
 
 # URL
@@ -98,3 +98,10 @@ sitemap:
   path: sitemap.xml
 baidusitemap:
   path: baidusitemap.xml
+
+symbols_count_time:
+  symbols: true
+  time: true
+  total_symbols: true
+  total_time: true
+  exclude_codeblock: false

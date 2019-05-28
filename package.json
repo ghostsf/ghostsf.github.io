@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "eslint": "^5.16.0",
-    "hexo": "^3.7.0",
+    "hexo": "^3.8.0",
     "hexo-deployer-git": "^1.0.0",
     "hexo-generator-archive": "^0.1.5",
     "hexo-generator-baidu-sitemap": "^0.1.6",
@@ -19,6 +19,7 @@
     "hexo-renderer-marked": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.3",
     "hexo-server": "^0.3.1",
+    "hexo-symbols-count-time": "^0.6.0",
     "npm": "^6.9.0"
   }
 }
