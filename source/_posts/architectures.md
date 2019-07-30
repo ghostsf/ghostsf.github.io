@@ -15,7 +15,7 @@ categories: 技术栈
 单体架构比较初级，典型的三级架构，前端(Web/手机端)+中间业务逻辑层+数据库层。这是一种典型的Java Spring mvc或者Python Django框架的应用。其架构图如下所示：
 
 
-![单体架构](https://ws2.sinaimg.cn/large/006tKfTcgy1g1p7ig7efgj30pm092gp7.jpg)
+![单体架构](../images/post/单体架构.jpg)
 
 
 
@@ -53,7 +53,7 @@ categories: 技术栈
 
 
 
-![分布式架构](https://ws3.sinaimg.cn/large/006tKfTcgy1g1p7jvz2s4j30yi098jyr.jpg)
+![分布式架构](../images/post/分布式架构.jpg)
 
 
 
@@ -81,7 +81,7 @@ categories: 技术栈
 微服务架构，主要是中间层分解，将系统拆分成很多小应用（微服务），微服务可以部署在不同的服务器上，也可以部署在相同的服务器不同的容器上。当应用的故障不会影响到其他应用，单应用的负载也不会影响到其他应用，其代表框架有Spring cloud、Dubbo等。 其架构图如下所示：
 
 
-![微服务架构](https://ws4.sinaimg.cn/large/006tKfTcgy1g1p7karg2xj31040rak7b.jpg)
+![微服务架构](../images/post/微服务架构.jpg)
 
 
 易于开发和维护： 一个微服务只会关注一个特定的业务功能，所以它业务清晰、代码量较少。 开发和维护单个微服务相对简单。而整个应用是由若干个微服务构建而成的，所以整个应用也会被维持在一个可控状态。
@@ -125,7 +125,7 @@ categories: 技术栈
 当我们还在容器的浪潮中前行时，已经有一些革命先驱悄然布局另外一个云计算战场：Serverless架构。
 
 
-![Serverless架构](https://ws1.sinaimg.cn/large/006tKfTcgy1g1p7kp68x1j311m0ictl7.jpg)
+![Serverless架构](../images/post/Serverless架构.jpg)
 
 
 2014年11月14日，亚马逊AWS发布了新产品Lambda。当时Lambda被描述为：一种计算服务，根据时间运行用户的代码，无需关心底层的计算资源。从某种意义上来说，Lambda姗姗来迟，它像云计算的PaaS理念：客户只管业务，无需担心存储和计算资源。在此前不久，2014年10月22日，谷歌收购了实时后端数据库创业公司Firebase。Firebase声称开发者只需引用一个API库文件就可以使用标准REST API的各种接口对数据进行读写操作，只需编写HTML＋CSS＋JavaScrip前端代码，不需要服务器端代码（如需整合，也极其简单）。
