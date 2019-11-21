@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="remove old">
-      <change beforePath="$PROJECT_DIR$/.idea/ghostsf.com.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+    <list default="true" id="9acc9fc6-3ac0-476d-9796-efbaa06b8843" name="Default Changelist" comment="add">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,65 +98,79 @@
     <session id="1402430884">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="3" />
-          <entry key="project.open.time.4" value="3" />
-          <entry key="project.open.time.6" value="4" />
-          <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.closed" value="38" />
+          <entry key="project.open.time.0" value="7" />
+          <entry key="project.open.time.1" value="8" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="7" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.open.time.6" value="7" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="4" />
-          <entry key="js" value="5" />
+          <entry key="html" value="141" />
+          <entry key="js" value="40" />
           <entry key="json" value="10" />
-          <entry key="md" value="177" />
+          <entry key="md" value="924" />
           <entry key="swig" value="35" />
-          <entry key="txt" value="316" />
-          <entry key="yml" value="155" />
+          <entry key="txt" value="689" />
+          <entry key="yml" value="347" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="142" />
           <entry key="JSON" value="10" />
-          <entry key="JavaScript" value="5" />
-          <entry key="Markdown" value="177" />
-          <entry key="PLAIN_TEXT" value="355" />
-          <entry key="YAML" value="155" />
+          <entry key="JavaScript" value="40" />
+          <entry key="Markdown" value="923" />
+          <entry key="PLAIN_TEXT" value="728" />
+          <entry key="YAML" value="347" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
           <entry key="gitignore" value="4" />
-          <entry key="html" value="7" />
-          <entry key="jpg" value="2" />
-          <entry key="js" value="17" />
-          <entry key="json" value="10" />
+          <entry key="html" value="12" />
+          <entry key="ico" value="3" />
+          <entry key="jpg" value="3" />
+          <entry key="js" value="21" />
+          <entry key="json" value="13" />
           <entry key="log" value="2" />
           <entry key="map" value="1" />
-          <entry key="md" value="79" />
-          <entry key="png" value="3" />
+          <entry key="md" value="122" />
+          <entry key="png" value="7" />
           <entry key="styl" value="8" />
           <entry key="swig" value="10" />
+          <entry key="ts" value="2" />
           <entry key="xml" value="2" />
-          <entry key="yml" value="35" />
+          <entry key="yml" value="53" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="7" />
-          <entry key="Image" value="5" />
-          <entry key="JSON" value="10" />
-          <entry key="JavaScript" value="17" />
-          <entry key="Markdown" value="79" />
+          <entry key="HTML" value="12" />
+          <entry key="Image" value="13" />
+          <entry key="JSON" value="13" />
+          <entry key="JavaScript" value="21" />
+          <entry key="Markdown" value="122" />
           <entry key="PLAIN_TEXT" value="17" />
           <entry key="SourceMap" value="1" />
           <entry key="Stylus" value="8" />
+          <entry key="TypeScript" value="2" />
           <entry key="XML" value="2" />
-          <entry key="YAML" value="35" />
+          <entry key="YAML" value="53" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts">
+        <counts>
+          <entry key="TypeScriptServerServiceImpl" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -168,10 +178,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/Java经典面试题(1).md">
+        <entry file="file://$PROJECT_DIR$/hexo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor />
+              <first_editor relative-caret-position="165">
+                <caret line="11" selection-start-line="11" selection-end-line="11" />
+              </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -180,10 +192,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <entry file="file://$PROJECT_DIR$/source/_posts/as-move.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="338">
+                <caret line="83" selection-start-line="83" selection-end-line="83" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
             </state>
           </provider>
         </entry>
@@ -192,36 +223,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>header</find>
-      <find>auto_excerpt</find>
-      <find>custom-logo-site-title</find>
-      <find>online</find>
-      <find>online-count</find>
-      <find>busuanzi-count</find>
-      <find>busuanz</find>
-      <find>CDN</find>
-      <find>又拍云</find>
-      <find>google</find>
-      <find>getElementsByTagName</find>
-      <find>抓到我</find>
-      <find>guide</find>
-      <find>sagiri.min</find>
-      <find>阅读时长</find>
-      <find>hexo-wordcount</find>
-      <find>word</find>
-      <find>wordCount</find>
-      <find>post_wordcount</find>
-      <find>post-wordcount</find>
-      <find>zh</find>
-      <find>post-meta-divider</find>
-      <find>post_meta</find>
-      <find>symbols_count_time</find>
-      <find>site-state-item-name</find>
-      <find>post-time</find>
-      <find>aplayer</find>
-      <find>comment</find>
       <find>disqus</find>
       <find>apikey</find>
+      <find>28181131</find>
+      <find>meto</find>
+      <find>DogePlayer</find>
+      <find>ico</find>
+      <find>skip_render</find>
+      <find>rocket</find>
+      <find>佳佳</find>
+      <find>catch</find>
+      <find>x站</find>
+      <find>life</find>
+      <find>resume</find>
+      <find>cloudxns</find>
+      <find>git.png</find>
+      <find>atom</find>
+      <find>rss</find>
+      <find>feed</find>
+      <find>plugin</find>
+      <find>plugins</find>
+      <find>leancloud</find>
+      <find>avoscloud</find>
+      <find>leancloud.cn</find>
+      <find>api.leancloud.cn</find>
+      <find>API_BASE_URL</find>
+      <find>AV.init</find>
+      <find>storage</find>
+      <find>init</find>
+      <find>initialize</find>
+      <find>如何</find>
     </findStrings>
     <replaceStrings>
       <replace>技术栈</replace>
@@ -229,14 +260,16 @@
       <replace>post-symbolscount</replace>
     </replaceStrings>
     <dirStrings>
+      <dir>$PROJECT_DIR$/themes</dir>
       <dir>$PROJECT_DIR$/source/_posts</dir>
       <dir>$PROJECT_DIR$/source</dir>
-      <dir>$PROJECT_DIR$/themes</dir>
-      <dir>$PROJECT_DIR$</dir>
       <dir>$PROJECT_DIR$/themes/xiao</dir>
+      <dir>$PROJECT_DIR$/themes/xiao/node_modules</dir>
+      <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -247,14 +280,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/source/_posts/树莓派折腾记（二）搭建SVN代码托管服务.md" />
-        <option value="$PROJECT_DIR$/source/_posts/树莓派（Raspberry-Pi）3玩起来！.md" />
-        <option value="$PROJECT_DIR$/source/_posts/模拟定位免root.md" />
-        <option value="$PROJECT_DIR$/source/_posts/爱江南.md" />
-        <option value="$PROJECT_DIR$/source/_posts/番茄工作插件-pomodoro-timer-plugin-for-IntelliJ-IDEs-程序员必备良器---ghostsf博客.md" />
-        <option value="$PROJECT_DIR$/source/_posts/白粥、面条不养胃！真正有好处的食物是这些.md" />
-        <option value="$PROJECT_DIR$/source/_posts/百度echarts-3-发布了，赞.md" />
-        <option value="$PROJECT_DIR$/source/_posts/真理难辩.md" />
         <option value="$PROJECT_DIR$/source/_posts/让MySql支持Emoji表情也即MySQL中4字节utf8字符保存方法.md" />
         <option value="$PROJECT_DIR$/source/_posts/让我留在你身边.md" />
         <option value="$PROJECT_DIR$/source/_posts/阳光明媚的一天，能否充实地度过呢？.md" />
@@ -268,8 +293,6 @@
         <option value="$PROJECT_DIR$/sourcehex/_posts/git-tips.md" />
         <option value="$PROJECT_DIR$/hexo.md" />
         <option value="$PROJECT_DIR$/source/_posts/git-tips.md" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/source/_posts/architectures.md" />
         <option value="$PROJECT_DIR$/source/_posts/mac安装mssql.md" />
         <option value="$PROJECT_DIR$/source/_posts/外婆.md" />
         <option value="$PROJECT_DIR$/source/_posts/驿站.md" />
@@ -296,8 +319,18 @@
         <option value="$PROJECT_DIR$/themes/xiao/languages/zh-Hans.yml" />
         <option value="$PROJECT_DIR$/themes/xiao/languages/zh-CN.yml" />
         <option value="$PROJECT_DIR$/themes/xiao/src/aplayer.js" />
+        <option value="$PROJECT_DIR$/source/_posts/video.md" />
+        <option value="$PROJECT_DIR$/source/_posts/git-all.md" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/source/resume/index.html" />
+        <option value="$PROJECT_DIR$/source/i/index.html" />
+        <option value="$PROJECT_DIR$/source/_posts/nginx-proxy-read-responseheader-fail.md" />
         <option value="$PROJECT_DIR$/themes/xiao/_config.yml" />
+        <option value="$PROJECT_DIR$/source/_posts/architectures.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/xiao/src/leancloud.js" />
+        <option value="$PROJECT_DIR$/source/_posts/mybatis-mysql-error.md" />
+        <option value="$PROJECT_DIR$/source/_posts/as-move.md" />
       </list>
     </option>
   </component>
@@ -320,10 +353,10 @@
       <path value="$PROJECT_DIR$/themes/xiao/source/lib/velocity-animate/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1680" />
-    <option name="height" value="978" />
+    <option name="height" value="956" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -343,11 +376,6 @@
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="source" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="ghostsf.com" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="themes" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -366,24 +394,27 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Reabble--Kindle-上的-RSS-Reader&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/Reabble--Kindle-上的-RSS-Reader.md&#10;入侵类问题排查思路&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/入侵类问题排查思路.md&#10;缓存&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/解决微信内置浏览器缓存问题的几个方案.md&#10;code-readability&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/code-readability.md&#10;jquer&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/jquery-serialize表单序列化，当radio或checkbox-未选中时，没有序列化到对象中的原因分析和解决方案---ghostsf.md&#10;驿站&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/驿站.md&#10;外婆&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/外婆.md&#10;/mac安装mssql&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/mac安装mssql.md&#10;git&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/git.md&#10;git-tips&#9;null&#9;null&#10;mac&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/mac-fall.md&#10;-wa&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/-wampserver开启php_ldap扩展问题.md&#10;wampserver&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/wampserver下运行的网站如何在局域网共享访问.md&#10;bat常用小脚本&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/bat常用小脚本.md&#10;Tr&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/Try-for-C#,START.md&#10;hexo&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/hexo博客搭建：hexo-deploy至github-出现-dev-tty---No-such-device-or-address；could-not-read-Username-for-github的解决方案.md" />
+    <property name="SearchEverywhereHistoryKey" value="as-move&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/as-move.md&#10;leancloud&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/themes/xiao/src/leancloud.js&#10;architectures&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/architectures.md&#10;nginx-proxy-read-responseheader-fail&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/nginx-proxy-read-responseheader-fail.md&#10;video&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/video.md&#10;Reabble--Kindle-上的-RSS-Reader&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/Reabble--Kindle-上的-RSS-Reader.md&#10;入侵类问题排查思路&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/入侵类问题排查思路.md&#10;缓存&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/解决微信内置浏览器缓存问题的几个方案.md&#10;code-readability&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/code-readability.md&#10;jquer&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/jquery-serialize表单序列化，当radio或checkbox-未选中时，没有序列化到对象中的原因分析和解决方案---ghostsf.md&#10;驿站&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/驿站.md&#10;外婆&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/外婆.md&#10;/mac安装mssql&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/mac安装mssql.md&#10;git&#9;FILE&#9;file:///Users/ghostsf/workspace/frontproject/ghostsf.com/source/_posts/git.md&#10;git-tips&#9;null&#9;null&#10;mac&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/mac-fall.md&#10;-wa&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/-wampserver开启php_ldap扩展问题.md&#10;wampserver&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/wampserver下运行的网站如何在局域网共享访问.md&#10;bat常用小脚本&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/bat常用小脚本.md&#10;Tr&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/Try-for-C#,START.md&#10;hexo&#9;FILE&#9;file:///Users/ghostsf/frontproject/ghostsf.com/source/_posts/hexo博客搭建：hexo-deploy至github-出现-dev-tty---No-such-device-or-address；could-not-read-Username-for-github的解决方案.md" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/PlugIns/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/source/_drafts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/xiao/languages" />
-      <recent name="$PROJECT_DIR$/source/_posts" />
       <recent name="$PROJECT_DIR$/source/images/post" />
-      <recent name="$PROJECT_DIR$/themes/xiao/source/images" />
+      <recent name="$PROJECT_DIR$/source/images/link" />
       <recent name="$PROJECT_DIR$/source" />
+      <recent name="$PROJECT_DIR$/themes/xiao/source/images" />
+      <recent name="$PROJECT_DIR$/themes/xiao/languages" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/source/images/link" />
+      <recent name="$PROJECT_DIR$/source/i" />
+      <recent name="$PROJECT_DIR$/source/_drafts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -447,112 +478,31 @@
       <workItem from="1558250330189" duration="309000" />
       <workItem from="1558320256917" duration="146000" />
       <workItem from="1558943404195" duration="213000" />
-      <workItem from="1558944203156" duration="14099000" />
-    </task>
-    <task id="LOCAL-00001" summary="fix: change travis">
-      <created>1549706148453</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1549706148453</updated>
-    </task>
-    <task id="LOCAL-00002" summary="fix: yarn">
-      <created>1549727373093</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1549727373094</updated>
-    </task>
-    <task id="LOCAL-00003" summary="fix: remove submodule">
-      <created>1549728234070</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1549728234070</updated>
-    </task>
-    <task id="LOCAL-00004" summary="fix: .idea">
-      <created>1549728275306</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1549728275306</updated>
-    </task>
-    <task id="LOCAL-00005" summary="fix: .idea">
-      <created>1549728438061</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1549728438061</updated>
-    </task>
-    <task id="LOCAL-00006" summary="fix: rm .idea &amp; ignore">
-      <created>1549728640017</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1549728640017</updated>
-    </task>
-    <task id="LOCAL-00007" summary="fix: rm .idea &amp; ignore">
-      <created>1549728785820</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1549728785820</updated>
-    </task>
-    <task id="LOCAL-00008" summary="fix: add submodule">
-      <created>1549729850149</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1549729850149</updated>
-    </task>
-    <task id="LOCAL-00009" summary="fix: auto clone submodule">
-      <created>1549768437699</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1549768437699</updated>
-    </task>
-    <task id="LOCAL-00010" summary="fix: change submodule git https address">
-      <created>1549768765801</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1549768765801</updated>
-    </task>
-    <task id="LOCAL-00011" summary="fix: fix travis &amp; add other pages">
-      <created>1549770211704</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1549770211704</updated>
-    </task>
-    <task id="LOCAL-00012" summary="fix: update theme">
-      <created>1549783560834</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1549783560834</updated>
-    </task>
-    <task id="LOCAL-00013" summary="fix: update theme">
-      <created>1549783695527</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1549783695527</updated>
-    </task>
-    <task id="LOCAL-00014" summary="fix: change link">
-      <created>1549785331428</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1549785331428</updated>
-    </task>
-    <task id="LOCAL-00015" summary="update">
-      <created>1549857540675</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1549857540675</updated>
+      <workItem from="1558944203156" duration="15356000" />
+      <workItem from="1559050727534" duration="933000" />
+      <workItem from="1559093074090" duration="1659000" />
+      <workItem from="1559096344446" duration="184000" />
+      <workItem from="1559127963459" duration="2835000" />
+      <workItem from="1559131137204" duration="956000" />
+      <workItem from="1559179620671" duration="215000" />
+      <workItem from="1559285062297" duration="549000" />
+      <workItem from="1559286850196" duration="243000" />
+      <workItem from="1559355083222" duration="65000" />
+      <workItem from="1559457803685" duration="1642000" />
+      <workItem from="1559533618102" duration="17000" />
+      <workItem from="1559638795184" duration="219000" />
+      <workItem from="1559747726616" duration="2644000" />
+      <workItem from="1559809714646" duration="118000" />
+      <workItem from="1563768119278" duration="360000" />
+      <workItem from="1563784405420" duration="115000" />
+      <workItem from="1564450231497" duration="416000" />
+      <workItem from="1564451517960" duration="1251000" />
+      <workItem from="1564478305310" duration="365000" />
+      <workItem from="1565149925672" duration="664000" />
+      <workItem from="1567647046090" duration="2096000" />
+      <workItem from="1567732530163" duration="982000" />
+      <workItem from="1572832874859" duration="3362000" />
+      <workItem from="1574318215862" duration="718000" />
     </task>
     <task id="LOCAL-00016" summary="add cname">
       <created>1549868580132</created>
@@ -743,19 +693,173 @@
       <option name="project" value="LOCAL" />
       <updated>1559012014383</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="remove .idea">
+      <created>1559012178723</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1559012178723</updated>
+    </task>
+    <task id="LOCAL-00044" summary="add about">
+      <created>1559129753179</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1559129753179</updated>
+    </task>
+    <task id="LOCAL-00045" summary="1. change about for i&#10;2. add old resume page">
+      <created>1559131347695</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1559131347695</updated>
+    </task>
+    <task id="LOCAL-00046" summary="1. change about for i&#10;2. add old resume page">
+      <created>1559131482030</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1559131482030</updated>
+    </task>
+    <task id="LOCAL-00047" summary="remove old">
+      <created>1559131879656</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1559131879656</updated>
+    </task>
+    <task id="LOCAL-00048" summary="update twitter">
+      <created>1559179757463</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1559179757463</updated>
+    </task>
+    <task id="LOCAL-00049" summary="remove old">
+      <created>1559179823491</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1559179823491</updated>
+    </task>
+    <task id="LOCAL-00050" summary="add link">
+      <created>1559285466756</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1559285466757</updated>
+    </task>
+    <task id="LOCAL-00051" summary="add link touko">
+      <created>1559285518528</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1559285518528</updated>
+    </task>
+    <task id="LOCAL-00052" summary="add link ephen">
+      <created>1559286988261</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1559286988262</updated>
+    </task>
+    <task id="LOCAL-00053" summary="add about">
+      <created>1563768470031</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1563768470031</updated>
+    </task>
+    <task id="LOCAL-00054" summary="remove old posts">
+      <created>1563784530284</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1563784530284</updated>
+    </task>
+    <task id="LOCAL-00055" summary="temp remove resume page">
+      <created>1564450299675</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1564450299677</updated>
+    </task>
+    <task id="LOCAL-00056" summary="change dns">
+      <created>1564450534220</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1564450534220</updated>
+    </task>
+    <task id="LOCAL-00057" summary="remove old post">
+      <created>1564450634622</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1564450634622</updated>
+    </task>
+    <task id="LOCAL-00058" summary="update post for images">
+      <created>1564452870356</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1564452870357</updated>
+    </task>
+    <task id="LOCAL-00059" summary="add hexo-generator-feed for atom.xml">
+      <created>1565150621037</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1565150621038</updated>
+    </task>
+    <task id="LOCAL-00060" summary="change leancloud api host">
+      <created>1567649296256</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1567649296256</updated>
+    </task>
+    <task id="LOCAL-00061" summary="remove useless post">
+      <created>1567650409508</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1567650409508</updated>
+    </task>
+    <task id="LOCAL-00062" summary="remove useless post">
+      <created>1567737879883</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1567737879884</updated>
+    </task>
+    <task id="LOCAL-00063" summary="add a post">
+      <created>1572858367275</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1572858367275</updated>
+    </task>
+    <task id="LOCAL-00064" summary="add post about as move function">
+      <created>1574318928458</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1574318928459</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74960000" />
+    <option name="totallyTimeSpent" value="98825000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="978" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="956" extended-state="6" />
     <layout>
-      <window_info id="npm" sideWeight="0.5009597" side_tool="true" weight="0.24050634" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.25979507" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.19951779" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" sideWeight="0.5009597" side_tool="true" weight="0.24050634" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908458" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32908458" />
@@ -765,19 +869,20 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Apicloud" order="8" weight="0.32977587" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.4727694" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.4611819" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.47100592" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21046373" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info id="npm" order="0" sideWeight="0.5009597" side_tool="true" weight="0.24050634" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.4990403" visible="true" weight="0.25979507" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4990403" visible="true" weight="0.29355034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" sideWeight="0.5009597" side_tool="true" weight="0.24050634" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32908458" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32908458" />
@@ -787,10 +892,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Apicloud" order="8" weight="0.32977587" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.4727694" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.76013905" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.47100592" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21046373" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="TypeScript" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -844,122 +950,40 @@
       <path value="$PROJECT_DIR$/themes/sagiri" />
       <path value="$PROJECT_DIR$/theme/xiao" />
     </ignored-roots>
-    <MESSAGE value="fix: fix travis &amp; add other pages" />
-    <MESSAGE value="fix: update theme" />
-    <MESSAGE value="fix: change link" />
-    <MESSAGE value="add cname" />
-    <MESSAGE value="add shields" />
-    <MESSAGE value="change categories" />
-    <MESSAGE value="change theme name" />
-    <MESSAGE value="add sitemap" />
-    <MESSAGE value="add to slack for monitoring" />
-    <MESSAGE value="update" />
-    <MESSAGE value="change host" />
-    <MESSAGE value="add git-tips" />
-    <MESSAGE value="update old post" />
-    <MESSAGE value="remove site-title" />
-    <MESSAGE value="remove hexo-wordcount" />
     <MESSAGE value="update busuanzi" />
     <MESSAGE value="sync to xiao" />
     <MESSAGE value="remove old post&#10;join 又拍云" />
     <MESSAGE value="add post" />
     <MESSAGE value="revert" />
     <MESSAGE value="add google analytics" />
-    <MESSAGE value="remove old post" />
-    <MESSAGE value="remove old" />
     <MESSAGE value="fix: wordcount bug;&#10;feat: add disqus;&#10;update others" />
+    <MESSAGE value="remove .idea" />
+    <MESSAGE value="1. change about for i&#10;2. add old resume page" />
+    <MESSAGE value="update twitter" />
+    <MESSAGE value="remove old" />
+    <MESSAGE value="add link" />
+    <MESSAGE value="add link touko" />
+    <MESSAGE value="add link ephen" />
+    <MESSAGE value="add about" />
+    <MESSAGE value="remove old posts" />
+    <MESSAGE value="temp remove resume page" />
+    <MESSAGE value="change dns" />
+    <MESSAGE value="remove old post" />
+    <MESSAGE value="update post for images" />
+    <MESSAGE value="add hexo-generator-feed for atom.xml" />
+    <MESSAGE value="change leancloud api host" />
     <MESSAGE value="remove useless post" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove useless post" />
+    <MESSAGE value="add a post" />
+    <MESSAGE value="add post about as move function" />
+    <option name="LAST_COMMIT_MESSAGE" value="add post about as move function" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/xiao/src/evanyou.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/sagiri.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="80" column="5959" selection-start-line="80" selection-start-column="5954" selection-end-line="80" selection-end-column="5959" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/js/sagiri.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="80" column="5959" selection-start-line="80" selection-start-column="5954" selection-end-line="80" selection-end-column="5959" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_layout.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="74" column="48" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/webpack.config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/swig-templates/lib/utils.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="44" column="10" selection-start-line="44" selection-start-column="10" selection-end-line="44" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Java-使用反射-实例化-构造器带有数组参数的类.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/git-all.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/linux下时间同步标准时间的方法.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/linux删除服务器上tomcat或apache等log日志shell脚本---ghostsf.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/MySQL-Access-denied-for-user-‘root’@’localhost’-(using-password--YES)问题的解决方案.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="11" column="16" lean-forward="true" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -967,64 +991,166 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/ORACLE-ERROR-ORA-01489--result-of-string-concatenation-is-too-long的解决方案.md">
+    <entry file="file://$PROJECT_DIR$/source/donate/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Oracle-JDBC-BUG-ArrayIndexOutOfBoundsException---ghostsf.md">
+    <entry file="file://$PROJECT_DIR$/source/about/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="270">
+            <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/php网站出现Cannot-redeclare-class-SessionHandlerInterface的问题原因和解决方案---ghostsf博客-.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/sqlite报no-such-table或者library-routine-called-out-of-sequence，最容易忽视的问题---ghostsf.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/failure.ico">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/discuz在common_member表中的密码无用，真正有用的在ucenter_members.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/source/images/favicon.ico">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/swig-templates/lib/swig.js">
+    <entry file="file://$PROJECT_DIR$/source/love/bg2.jpg" />
+    <entry file="file://$PROJECT_DIR$/source/love/cursor-hand.png" />
+    <entry file="file://$PROJECT_DIR$/source/love/lovex.png" />
+    <entry file="file://$PROJECT_DIR$/source/love/cursor-grab.png" />
+    <entry file="file://$PROJECT_DIR$/source/resume/js/easing.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5540">
-          <caret line="536" column="19" lean-forward="true" selection-start-line="536" selection-start-column="19" selection-end-line="536" selection-end-column="19" />
+        <state relative-caret-position="465">
+          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2B物语——左手-右手.md">
+    <entry file="file://$PROJECT_DIR$/source/resume/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="589" column="73" selection-start-line="589" selection-start-column="73" selection-end-line="589" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/LDAP是什么？.md" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/一串神奇的数字表白代码---情人节必备.md" />
+    <entry file="file://$PROJECT_DIR$/source/i/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="945" column="8" lean-forward="true" selection-start-line="945" selection-start-column="8" selection-end-line="946" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/nginx-proxy-read-responseheader-fail.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_drafts/video.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="765">
+            <caret line="51" selection-start-line="51" selection-end-line="51" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_drafts/linux入侵类问题排查思路.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="39" column="33" selection-start-line="39" selection-start-column="33" selection-end-line="39" selection-end-column="33" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/images/post/git.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/git-tips.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="652" lean-forward="true" selection-start-line="652" selection-end-line="652" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/architectures.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="3" selection-start-line="37" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/node_modules/coffee-script/lib/coffee-script/coffee-script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="209" column="8" selection-start-line="209" selection-start-column="8" selection-end-line="209" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Hbuilder5.0使用教程.md" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/-ThinkPHP5.0学习须知和常见问题集.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1034,7 +1160,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2B物语——猪说.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/discuz模板提交各种问题汇总(一).md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1044,7 +1170,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/-ThinkPHP出现add、save无法添加、修改的情况解决方案——Thinkphp缓存问题.md">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/node_modules/leancloud-storage/changelog.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="5955">
+            <caret line="397" column="15" selection-start-line="397" selection-start-column="15" selection-end-line="397" selection-end-column="15" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Discuz模板开发技术手册.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/code-readability.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1054,10 +1218,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/-wampserver开启php_ldap扩展问题.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/PHP程序员的技术成长规划【转】.md" />
+    <entry file="file://$PROJECT_DIR$/themes/xiao/src/leancloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/node_modules/leancloud-storage/storage.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16710">
+          <caret line="1114" column="17" selection-start-line="1114" selection-start-column="17" selection-end-line="1114" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/xiao/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="45">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
@@ -1074,7 +1255,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/CS-LP-编程指南思维导图.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/1024程序员节，写给改变世界的程序员---ghostsf.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1084,7 +1265,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/architectures.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/2B物语——左手-右手.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1104,31 +1285,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/git.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/chrome插件推荐.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Reabble--Kindle-上的-RSS-Reader.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/jquery-serialize表单序列化，当radio或checkbox-未选中时，没有序列化到对象中的原因分析和解决方案---ghostsf.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="150">
-            <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <first_editor relative-caret-position="30">
+            <caret line="2" column="16" lean-forward="true" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1136,7 +1297,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Intellij-idea-maven-项目报错，Error-Maven-Resources-Compiler--Maven-project-configuration-required-for-module.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/IDEA-热部署jrebel插件配置.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="120">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source/_posts/Java-8-Optional类.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -1146,44 +1319,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/mac安装mssql.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="15">
+            <caret line="1" column="26" lean-forward="true" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/debug.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13546" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/mybatis-mysql-error.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/css/_common/components/post/post-meta.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_macro/post.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="49">
-          <caret line="80" column="32" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="32" />
+    <entry file="file://$PROJECT_DIR$/source/_posts/mac-fall.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="180">
+            <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hexo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
+          <first_editor relative-caret-position="165">
+            <caret line="11" selection-start-line="11" selection-end-line="11" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1191,88 +1367,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_macro/sidebar.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="88" column="31" selection-start-line="88" selection-start-column="31" selection-end-line="88" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/languages/zh-Hans.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/languages/zh-CN.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/css/main.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_darling.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/source/css/_schemes/Pisces/_mai.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="34" column="25" selection-start-line="34" selection-start-column="25" selection-end-line="34" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/src/aplayer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="14" lean-forward="true" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/layout/_third-party/comments/disqus.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/xiao/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="374" column="35" lean-forward="true" selection-start-line="374" selection-start-column="35" selection-end-line="374" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_drafts/linux入侵类问题排查思路.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="236">
-            <caret line="47" column="17" selection-start-line="47" selection-start-column="17" selection-end-line="47" selection-end-column="17" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -1280,40 +1379,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/bat常用小脚本.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/as-move.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1506" />
+          <first_editor relative-caret-position="338">
+            <caret line="83" selection-start-line="83" selection-end-line="83" />
+          </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Try-for-C#,START.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/Java经典面试题(1).md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
         </state>
       </provider>
     </entry>

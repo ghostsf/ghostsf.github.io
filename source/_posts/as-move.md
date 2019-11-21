@@ -1,6 +1,5 @@
 ---
 title: 善用 Android Studio 的异动管理功能
-copyright: true
 date: 2019-11-21 14:38:15
 tags: AndroidStudio
 categories: 分享境
