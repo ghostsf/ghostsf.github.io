@@ -55,22 +55,22 @@ new DPlayer({
 
 ### 比安卡-严霜凛雪
 
-![比安卡-严霜凛雪](/images/post/pns-1.jpg)
+![比安卡-严霜凛雪](/images/post/pns-4.jpg)
 
 ### 卡列尼娜
 
-![卡列尼娜](/images/post/pns-2.jpg)
+![卡列尼娜](/images/post/pns-1.jpg)
 
 ### 露西亚
 
-![露西亚](/images/post/pns-3.jpg)
+![露西亚](/images/post/pns-2.jpg)
 
 ### 里
 
-![里](/images/post/pns-4.jpg)
+![里](/images/post/pns-3.jpg)
 
 
 ## 更多 
 
-[直达](https://space.bilibili.com/382651856?from=search&seid=9814658026189433317)
+[直达wiki](https://wiki.biligame.com/zspms/)
 
