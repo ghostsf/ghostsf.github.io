@@ -22,9 +22,9 @@ categories: 分享境
 <script type="text/javascript">
 new DPlayer({
     container: document.getElementById('player-1'),
-    video.pic: 'http://cdnimg02.kurogame.com/M00/14/82/ChpCl13nYT2ELg1_AAAAAKugTRY122.jpg',
     video: {
         url: 'http://video.zspns.kurogame.com/hd/2f317626420f4cf99f6d8ec4c2b17568.mp4',
+        pic: 'http://cdnimg02.kurogame.com/M00/14/82/ChpCl13nYT2ELg1_AAAAAKugTRY122.jpg'
     },
 });
 </script>
@@ -38,9 +38,9 @@ new DPlayer({
 <script type="text/javascript">
 new DPlayer({
     container: document.getElementById('player-2'),
-    video.pic: 'http://cdnimg01.kurogame.com/M00/14/82/ChpCl13nao2EPxARAAAAABXzQNo687.jpg',
     video: {
         url: 'http://video.zspns.kurogame.com/hd/2f317626420f4cf99f6d8ec4c2b17568.mp4',
+        pic: 'http://cdnimg01.kurogame.com/M00/14/82/ChpCl13nao2EPxARAAAAABXzQNo687.jpg'
     },
 });
 </script>
@@ -51,23 +51,23 @@ new DPlayer({
 
 ### 丽芙-纯白之花
 
-![比安卡-严霜凛雪](../images/post/pns-1.jpg)
+![比安卡-严霜凛雪](/images/post/pns-1.jpg)
 
 ### 比安卡-严霜凛雪
 
-![丽芙-纯白之花](../images/post/pns-2.jpg)
+![丽芙-纯白之花](/images/post/pns-2.jpg)
 
 ### 卡列尼娜
 
-![卡列尼娜](../images/post/pns-3.jpg)
+![卡列尼娜](/images/post/pns-3.jpg)
 
 ### 露西亚
 
-![露西亚](../images/post/pns-4.jpg)
+![露西亚](/images/post/pns-4.jpg)
 
 ### 里
 
-![里](../images/post/pns-5.jpg)
+![里](/images/post/pns-5.jpg)
 
 
 ## 更多 
