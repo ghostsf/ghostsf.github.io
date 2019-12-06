@@ -1,5 +1,5 @@
 ---
-title: pns-kurogame
+title: 安利一款游戏《战双帕弥什》
 copyright: true
 date: 2019-12-06 14:00:09
 tags: 游戏
