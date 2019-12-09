@@ -74,3 +74,6 @@ new DPlayer({
 
 [直达wiki](https://wiki.biligame.com/zspms/)
 
+### 上app store主推了 191209
+[appstore主推](https://apps.apple.com/cn/story/id1484805266) 
+
