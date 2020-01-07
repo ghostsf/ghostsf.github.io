@@ -29,7 +29,9 @@ categories: 技术栈
 nexus.exe /run`
 
 `nexus run 前台运行，可以实时查看运行log
+
 nexus start 后台运行
+
 nexus stop 关闭`
 
 默认端口: 8081
@@ -51,24 +53,236 @@ nexus3 安全性提高了些，admin的密码在`~/sonatype-work/nexus3/admin.pa
 `./bin/nexus.vmoptions` 可配置内存参数
 
 
-## 0x05 发布包配置
+## 0x05 其他配置
 
-> todo
-> - - 有空再整理吧
+**服务自启**
+
+在/etc/systemd/system/下创建nexus.service文件
+
+`vi /etc/systemd/system/nexus.service`
+
+
+`[Unit]
+
+Description=nexus service
+
+After=network.target
+  
+[Service]
+
+Type=forking
+
+LimitNOFILE=65536
+
+ExecStart=~/bin/nexus start
+
+ExecStop=~/bin/nexus stop
+
+User=nexus
+
+Restart=on-abort
+  
+[Install]
+
+WantedBy=multi-user.target`
 
 
 
-## 0x06 注意事项
+**systemctl命令**
+
+更新systemctl
+
+`sudo systemctl daemon-reload`
+
+设置开机启动
+
+`sudo systemctl enable nexus.service`
+
+启动nexus服务
+
+`sudo systemctl start nexus.service`
+
+查看nexus服务状态
+
+`sudo systemctl status nexus.service`
+
+查看日志
+
+`tail -f ~/sonatype-work/nexus3/log/nexus.log`
+
+
+
+## 0x06 发布包配置
+
+**maven**
+
+pom.xml 参考
+
+`<distributionManagement>
+
+    <repository>
+    
+        <id>nexus-releases</id>
+        
+        <name>private-nexus-library-releases</name>
+        
+        <url>http://{host}/repository/maven-releases/</url>
+        
+    </repository>
+    
+    <snapshotRepository>
+    
+        <id>nexus-snapshots</id>
+        
+        <name>private-nexus-library-snapshots</name>
+        
+        <url>http://{host}/repository/maven-snapshots/</url>
+        
+    </snapshotRepository>
+</distributionManagement>`
+
+maven settings.xml 参考
+
+`<servers>
+
+<server>
+
+  <id>nexus-private</id>
+
+  <username>username</username>
+
+  <password>password</password>
+
+</server>
+
+</servers>`
+
+
+mirrors add
+
+`<mirror>
+
+    <id>nexus-private</id>
+    
+    <mirrorOf>*</mirrorOf>
+    
+    <name>Nexus private</name>
+    
+    <url>http://{host}/repository/maven-public/</url>
+</mirror>`
+
+
+profiles add
+
+`<profiles>
+
+    <profile>
+
+      <id>private</id>
+
+      <repositories>
+
+        <repository>
+
+          <id>nexus-releases</id>
+
+          <url>http://{host}/repository/maven-releases/</url>
+
+          <releases><enabled>true</enabled></releases>
+
+          <snapshots><enabled>true</enabled></snapshots>
+
+        </repository>
+
+        <repository>
+
+          <id>nexus-snapshots</id>
+
+          <url>http://{host}/repository/maven-snapshots/</url>
+
+          <releases><enabled>true</enabled></releases>
+
+          <snapshots><enabled>true</enabled></snapshots>
+
+        </repository>
+
+      </repositories>
+
+
+      <pluginRepositories>
+
+         <pluginRepository>
+
+                <id>nexus-releases</id>
+
+                 <url>http://{host}/repository/maven-releases/</url>
+
+                 <releases><enabled>true</enabled></releases>
+
+                 <snapshots><enabled>true</enabled></snapshots>
+
+               </pluginRepository>
+
+               <pluginRepository>
+
+                 <id>nexus-snapshots</id>
+
+                  <url>http://{host}/repository/maven-snapshots/</url>
+
+                <releases><enabled>true</enabled></releases>
+
+                 <snapshots><enabled>true</enabled></snapshots>
+
+             </pluginRepository>
+
+         </pluginRepositories>
+
+    </profile>
+
+</profiles>`
+
+
+activeProfiles
+
+`<activeProfiles>
+
+    <activeProfile>private</activeProfile>
+    
+</activeProfiles>`
+
+
+// todo 还有很多要整理 有空出个相关专题文章吧
+
+
+## 0x07 注意事项
 
 `WARNING: ************************************************************
+
 WARNING: Detected execution as "root" user.  This is NOT recommended!
+
 WARNING: ************************************************************`
 
 创建一个单独的用户进行运行，安全一些
 
-`useradd nexus`
-`password nexus`
+`adduser nexus`
 
-> todo
+`passwd nexus`
+
+然后修改nexus为运行用户
+
+`vi ./bin/nexus.rc`
+
+取消注释，并修改为如下内容
+
+`run_as_user="nexus"`
+
+修改nexus3文件的所有者
+
+`chown -R nexus:nexus ~/nexus3/`
+
+
+
+
+
 
 
