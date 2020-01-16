@@ -22,24 +22,30 @@ categories: 技术栈
 
 进入bin目录，运行即可
 
-`// Unix & OS X
+```
+// Unix & OS X
 ./nexus run
 
 // Windows  
-nexus.exe /run`
+nexus.exe /run
+```
 
-`nexus run 前台运行，可以实时查看运行log
+```
+nexus run 前台运行，可以实时查看运行log
 
 nexus start 后台运行
 
-nexus stop 关闭`
+nexus stop 关闭
+```
 
 默认端口: 8081
 
 默认的管理员账号密码为
 
-`username：admin
-password：admin123`
+```
+username：admin
+password：admin123
+```
 
 nexus3 安全性提高了些，admin的密码在`~/sonatype-work/nexus3/admin.password`文件里
 
@@ -61,8 +67,8 @@ nexus3 安全性提高了些，admin的密码在`~/sonatype-work/nexus3/admin.pa
 
 `vi /etc/systemd/system/nexus.service`
 
-
-`[Unit]
+```
+[Unit]
 
 Description=nexus service
 
@@ -84,7 +90,8 @@ Restart=on-abort
   
 [Install]
 
-WantedBy=multi-user.target`
+WantedBy=multi-user.target
+```
 
 
 
@@ -120,7 +127,8 @@ WantedBy=multi-user.target`
 
 pom.xml 参考
 
-`<distributionManagement>
+```
+<distributionManagement>
 
     <repository>
     
@@ -141,11 +149,13 @@ pom.xml 参考
         <url>http://{host}/repository/maven-snapshots/</url>
         
     </snapshotRepository>
-</distributionManagement>`
+</distributionManagement>
+```
 
 maven settings.xml 参考
 
-`<servers>
+```
+<servers>
 
 <server>
 
@@ -167,14 +177,15 @@ maven settings.xml 参考
 
 </server>
 
-</servers>`
-
+</servers>
+```
 
 **maven使用 **
 
 mirrors add
 
-`<mirror>
+```xml
+<mirror>
 
     <id>nexus-private</id>
     
@@ -183,7 +194,8 @@ mirrors add
     <name>Nexus private</name>
     
     <url>http://{host}/repository/maven-public/</url>
-</mirror>`
+</mirror>
+```
 
 
 ps：若设置了不允许匿名用户访问
@@ -191,7 +203,8 @@ ps：若设置了不允许匿名用户访问
 
 eg: 
 
-`<mirror>
+```xml
+<mirror>
 
     <id>nexus-private</id>
     
@@ -200,7 +213,8 @@ eg:
     <name>Nexus private</name>
     
     <url>http://{username}:{password}@{host}/repository/maven-public/</url>
-</mirror>`
+</mirror>
+```
 
 
 // todo 还有很多要整理 有空出个相关专题文章吧
@@ -210,11 +224,13 @@ eg:
 
 **修改运行用户**
 
-`WARNING: ************************************************************
+```shell
+WARNING: ************************************************************
 
 WARNING: Detected execution as "root" user.  This is NOT recommended!
 
-WARNING: ************************************************************`
+WARNING: ************************************************************
+```
 
 创建一个单独的用户进行运行，安全一些
 
