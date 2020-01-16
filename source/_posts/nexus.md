@@ -50,7 +50,7 @@ nexus3 安全性提高了些，admin的密码在`~/sonatype-work/nexus3/admin.pa
 
 `./etc/nexus-default.properties` 可配置端口等参数
 
-`./bin/nexus.vmoptions` 可配置内存参数
+`./bin/nexus.vmoptions` 可配置数据存储的目录以及内存参数等
 
 
 ## 0x05 其他配置
@@ -112,9 +112,11 @@ WantedBy=multi-user.target`
 
 
 
-## 0x06 发布包配置
+## 0x06 使用配置
 
 **maven**
+
+**maven发布包**
 
 pom.xml 参考
 
@@ -147,7 +149,17 @@ maven settings.xml 参考
 
 <server>
 
-  <id>nexus-private</id>
+  <id>nexus-releases</id>
+
+  <username>username</username>
+
+  <password>password</password>
+
+</server>
+
+<server>
+
+  <id>nexus-snapshots</id>
 
   <username>username</username>
 
@@ -157,6 +169,8 @@ maven settings.xml 参考
 
 </servers>`
 
+
+**maven使用 **
 
 mirrors add
 
@@ -172,89 +186,29 @@ mirrors add
 </mirror>`
 
 
-profiles add
+ps：若设置了不允许匿名用户访问
+则使用远程仓库的时候需要使用鉴权URL
 
-`<profiles>
+eg: 
 
-    <profile>
+`<mirror>
 
-      <id>private</id>
-
-      <repositories>
-
-        <repository>
-
-          <id>nexus-releases</id>
-
-          <url>http://{host}/repository/maven-releases/</url>
-
-          <releases><enabled>true</enabled></releases>
-
-          <snapshots><enabled>true</enabled></snapshots>
-
-        </repository>
-
-        <repository>
-
-          <id>nexus-snapshots</id>
-
-          <url>http://{host}/repository/maven-snapshots/</url>
-
-          <releases><enabled>true</enabled></releases>
-
-          <snapshots><enabled>true</enabled></snapshots>
-
-        </repository>
-
-      </repositories>
-
-
-      <pluginRepositories>
-
-         <pluginRepository>
-
-                <id>nexus-releases</id>
-
-                 <url>http://{host}/repository/maven-releases/</url>
-
-                 <releases><enabled>true</enabled></releases>
-
-                 <snapshots><enabled>true</enabled></snapshots>
-
-               </pluginRepository>
-
-               <pluginRepository>
-
-                 <id>nexus-snapshots</id>
-
-                  <url>http://{host}/repository/maven-snapshots/</url>
-
-                <releases><enabled>true</enabled></releases>
-
-                 <snapshots><enabled>true</enabled></snapshots>
-
-             </pluginRepository>
-
-         </pluginRepositories>
-
-    </profile>
-
-</profiles>`
-
-
-activeProfiles
-
-`<activeProfiles>
-
-    <activeProfile>private</activeProfile>
+    <id>nexus-private</id>
     
-</activeProfiles>`
+    <mirrorOf>*</mirrorOf>
+    
+    <name>Nexus private</name>
+    
+    <url>http://{username}:{password}@{host}/repository/maven-public/</url>
+</mirror>`
 
 
 // todo 还有很多要整理 有空出个相关专题文章吧
 
 
 ## 0x07 注意事项
+
+**修改运行用户**
 
 `WARNING: ************************************************************
 
@@ -279,6 +233,21 @@ WARNING: ************************************************************`
 修改nexus3文件的所有者
 
 `chown -R nexus:nexus ~/nexus3/`
+
+
+**备份迁移**
+
+默认配置 nexus的数据都在此目录下
+
+`sonatype-work`
+
+该目录可在`./bin/nexus.vmoptions`自定义配置
+
+需要备份迁移，只要打包这个目录即可
+
+
+
+
 
 
 
