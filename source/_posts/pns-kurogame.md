@@ -6,7 +6,7 @@ tags: 游戏
 categories: 分享境
 ---
 
-<video src="http://cdnstatic.kurogame.com/pns/2.0/images/video1.mp4" autoplay="autoplay" muted="muted" id="video" loop="loop" style="width:100%"></video>
+<video src="http://cdnstatic.kurogame.com/pns/2.0/images/video1.mp4" id="video" loop="loop" style="width:100%"></video>
 
 
 《战双帕弥什》是广州库洛科技有限公司研发的一款末世科幻题材的3D动作手游。你将化身指挥官，带领人类最后的希望——仿生人形「构造体」，共同对抗被「帕弥什」病毒感染的机械大军。运用你的判断力，灵活地滑动指尖，触发不同的技能招式，在世界的终焉打出华丽一战吧！
