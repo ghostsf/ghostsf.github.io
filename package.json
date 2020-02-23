@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "eslint": "^5.16.0",
-    "hexo": "^3.9.0",
+    "hexo": "^4.2.0",
     "hexo-deployer-git": "^1.0.0",
     "hexo-generator-archive": "^0.1.5",
     "hexo-generator-baidu-sitemap": "^0.1.6",
