@@ -24,7 +24,7 @@ date: 2016-04-02 01:47:54
 
 2、找到自己操作系统的版本，我这里使用IntelliJIDEALicenseServer_windows_amd64.exe，双击打开运行
 
-3、在idea注册界面选择授权服务器，填写http://127.0.0.1:1017，然后点击“OK”
+3、在idea注册界面选择授权服务器，填写 `http://127.0.0.1:1017` ，然后点击“OK”
 
 转载自 [ilanyu's Blog][5]
 
