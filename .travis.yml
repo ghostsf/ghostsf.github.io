@@ -28,3 +28,6 @@ deploy:
   fqdn: ghostsf.com
   on:
     branch: master
+
+notifications:
+  slack: lemonsaas:qrfr4DVCkWgQC95rupqgHheF
