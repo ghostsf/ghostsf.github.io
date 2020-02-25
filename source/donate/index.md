@@ -13,8 +13,8 @@ date: 2019-02-11 11:15:01
 
 我们通过以下方式接受赞助：
 
--   [微信支付](https://cdn.ghostsf.com/wechatpay.png)
--   [支付宝](https://cdn.ghostsf.com/alipay.png)
+-   [微信支付](http://cdn.ghostsf.com/wechatpay.png)
+-   [支付宝](http://cdn.ghostsf.com/alipay.png)
 -   [Paypal](https://www.paypal.me/ghostsf)
 
 #### 周期性赞助
