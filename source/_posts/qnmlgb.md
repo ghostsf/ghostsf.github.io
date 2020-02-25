@@ -10,6 +10,17 @@ categories: [闲言语,创作集]
 > 给大家配上了歌词，敬请欣赏 = =
 
 
-<video src="http://cdn.ghostsf.com/%E6%B1%9F%E6%B9%96%E9%A3%8E%E4%BA%91%E5%BD%95%E4%B9%8B%E6%B0%91%E8%B0%A3.mp4" autoplay="autoplay" id="video" loop="loop" style="width:100%"></video>
+{% raw %}
+<div id="player-qnmlgb"></div>
+<script type="text/javascript">
+new DPlayer({
+    container: document.getElementById('player-qnmlgb'),
+    video: {
+        url: 'http://cdn.ghostsf.com/%E6%B1%9F%E6%B9%96%E9%A3%8E%E4%BA%91%E5%BD%95%E4%B9%8B%E6%B0%91%E8%B0%A3.mp4'
+    },
+});
+</script>
+{% endraw %}
+
 
 <!--more-->
