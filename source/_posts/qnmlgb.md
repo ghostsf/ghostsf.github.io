@@ -16,7 +16,7 @@ categories: [闲言语,创作集]
 new DPlayer({
     container: document.getElementById('player-qnmlgb'),
     video: {
-        url: 'http://cdn.ghostsf.com/%E6%B1%9F%E6%B9%96%E9%A3%8E%E4%BA%91%E5%BD%95%E4%B9%8B%E6%B0%91%E8%B0%A3.mp4'
+        url: 'https://cdn.ghostsf.com/%E6%B1%9F%E6%B9%96%E9%A3%8E%E4%BA%91%E5%BD%95%E4%B9%8B%E6%B0%91%E8%B0%A3.mp4'
     },
 });
 </script>
