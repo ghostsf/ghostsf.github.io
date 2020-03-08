@@ -1,5 +1,5 @@
 ---
-title: 简单且高度可扩展的分布式文件系统SeaweedFS，看这一篇就够了
+title: 简单且高度可扩展的分布式文件系统SeaweedFS
 copyright: true
 date: 2020-03-06 16:08:21
 tags: [SeaweedFS,分布式,文件系统]
@@ -10,11 +10,6 @@ categories: [技术栈]
 ![SeaweedFS Logo](https://raw.githubusercontent.com/chrislusf/seaweedfs/master/note/seaweedfs.png)
 
 Github: https://github.com/chrislusf/seaweedfs
-
-[![Build Status](https://travis-ci.org/chrislusf/seaweedfs.svg?branch=master)](https://travis-ci.org/chrislusf/seaweedfs)
-[![GoDoc](https://godoc.org/github.com/chrislusf/seaweedfs/weed?status.svg)](https://godoc.org/github.com/chrislusf/seaweedfs/weed)
-[![Wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/chrislusf/seaweedfs/wiki)
-[![Docker Pulls](https://img.shields.io/docker/pulls/chrislusf/seaweedfs.svg?maxAge=604800)](https://hub.docker.com/r/chrislusf/seaweedfs/)
 
 > SeaweedFS is a simple and highly scalable distributed file system, to store and serve billions of files fast! SeaweedFS implements an object store with O(1) disk seek, transparent cloud integration, and an optional Filer with POSIX interface, supporting S3 API, Rack-Aware Erasure Coding for warm storage, FUSE mount, Hadoop compatible, WebDAV.
 
@@ -690,7 +685,7 @@ key  = "/Users/ghostsf/.seaweedfs/out/client01.key"
 
 
 
-# 0x10 遇到问题怎么办
+# 0x0A 遇到问题怎么办
 
 + https://github.com/chrislusf/seaweedfs/wiki
 
