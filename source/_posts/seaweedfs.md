@@ -27,8 +27,6 @@ SeaweedFS是一个简单且高度可扩展的分布式文件系统，可以快�
 * 文件读取效率太低，无法应对高并发读取要求
 针对以上问题，facebook 提出了自己的方案 [Facebook’s Haystack design paper](http://www.usenix.org/event/osdi10/tech/full_papers/Beaver.pdf) 。 之后各种实现出现，如tfs、MogileFS、GlusterFS等，其中Seaweedfs是一个比较优秀的实现。具有效率高、结构简单、代码清晰等优点。
 
-
-
 在逻辑上Seaweedfs的几个概念：
 
 | 概念       | 解释                                                         |
