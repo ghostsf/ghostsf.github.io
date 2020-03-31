@@ -21,6 +21,8 @@ sdk 压缩包包含的内容还是比较多的，有各种 demo，目前有 pyth
 
 跑一个 Java 的 demo，demo 界面大概如此：
 
+<!--more-->
+
 ![]()![Java demo](https://cdn.ghostsf.com/uPic/EU6uMq.png)
 
 ![java demo2](https://cdn.ghostsf.com/uPic/XpdccT.png)
