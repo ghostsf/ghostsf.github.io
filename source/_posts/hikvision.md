@@ -1,11 +1,10 @@
 ---
-
 title: 海康威视 hikvision SDK 二次开发
 copyright: true
 date: 2020-03-27 11:50:23
 tags:  [海康威视,hikvision]
 categories: [技术栈]
----------------------------------------------------------------------------------------------------------------------------------
+---
 
 # 桌面软件管控端开发
 
@@ -21,15 +20,13 @@ sdk 压缩包包含的内容还是比较多的，有各种 demo，目前有 pyth
 
 跑一个 Java 的 demo，demo 界面大概如此：
 
-<!--more-->
-
-![]()![Java demo](https://cdn.ghostsf.com/uPic/EU6uMq.png)
+![Java demo](https://cdn.ghostsf.com/uPic/EU6uMq.png)
 
 ![java demo2](https://cdn.ghostsf.com/uPic/XpdccT.png)
 
 # web3.0 网页控件二次开发
 
-不需要使用桌面端软件或者不熟悉 Java swing 开发的，可以使用海康威视的 web 网页控件集成。
+不需要使用桌面端软件的，可以使用海康威视的 web 网页控件集成。
 
 海康威视网页控件 sdk 开发包一般需要提交信息发邮件申请。
 
@@ -41,7 +38,7 @@ c、开发环境及开发语言
 d、贵公司名称，联系人，联系电话，邮箱地址
 ```
 
-ghostsf 这里给大家整理了一份：
+ghostsf 这里给大家整理了一份：[https://github.com/ghostsf/hikvision-web](https://github.com/ghostsf/hikvision-web)
 
 开发包中有 demo，有文档，有中英文版，需要 ActiveX 控件，所以对浏览器有限制，需要 有 IE 内核的浏览器。
 
@@ -49,7 +46,7 @@ ghostsf 这里给大家整理了一份：
 
 网页控件相关功能方法都在 `webVideoCtrl.js` 里，可以结合 demo 对应查看。
 
-web 开发包里面也已经提供了 API 的说明文档 ，我们也可以对照 API ，调用 webVideoCtrl.js 里面的方法就可以实现我们需要的功能。
+web 开发包里面也已经提供了 API 的说明文档 ，我们也可以对照 API ，调用 `webVideoCtrl.js` 里面的方法就可以实现我们需要的功能。
 
 这里先借用下别人的图，看下 web demo：
 
@@ -72,7 +69,7 @@ d、开发平台 android/ios：
 e、网络环境（是否有固定 IP）：
 ```
 
-ghostsf 这里给大家 整理了一份：
+ghostsf 这里给大家 整理了一份：[https://github.com/ghostsf/hikvision-android](https://github.com/ghostsf/hikvision-android)
 
 具体开发，这里就不赘述了。
 
@@ -86,14 +83,13 @@ ghostsf 这里给大家 整理了一份：
 
 # 海康威视手机、电脑常用软件下载
 
-查看【海康威视客户服务】微信公众号发布的这篇图文即可。[https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ](https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ)
+查看【海康威视客户服务】微信公众号发布的这篇图文即可。
 
+[https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ](https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ)
 
 
 # 其他说明
 
 如果不知道摄像头的 ip， 用户名，密码，端口号是多少，可以安装 SADP 软件。SADP 可以看到同一个局域网下面每个摄像头的详情。如果忘记密码了，可以在 SADP 里选择设备进行密码恢复。
-
-
 
 更多贴心服务，知识库等，可以微信关注【海康威视客户服务】微信公众号，进行详细了解。
