@@ -20,7 +20,7 @@ sdk 压缩包包含的内容还是比较多的，有各种 demo，目前有 pyth
 
 跑一个 Java 的 demo，demo 界面大概如此：
 
-![Java demo](https://cdn.ghostsf.com/uPic/EU6uMq.png)
+![]()![Java demo](https://cdn.ghostsf.com/uPic/EU6uMq.png)
 
 ![java demo2](https://cdn.ghostsf.com/uPic/XpdccT.png)
 
@@ -46,7 +46,7 @@ ghostsf 这里给大家整理了一份：[https://github.com/ghostsf/hikvision-w
 
 网页控件相关功能方法都在 `webVideoCtrl.js` 里，可以结合 demo 对应查看。
 
-web 开发包里面也已经提供了 API 的说明文档 ，我们也可以对照 API ，调用 `webVideoCtrl.js` 里面的方法就可以实现我们需要的功能。
+web 开发包里面也已经提供了 API 的说明文档 ，我们也可以对照 API ，调用 webVideoCtrl.js 里面的方法就可以实现我们需要的功能。
 
 这里先借用下别人的图，看下 web demo：
 
@@ -69,7 +69,7 @@ d、开发平台 android/ios：
 e、网络环境（是否有固定 IP）：
 ```
 
-ghostsf 这里给大家 整理了一份：[https://github.com/ghostsf/hikvision-android](https://github.com/ghostsf/hikvision-android)
+ghostsf 这里给大家 整理了一份：
 
 具体开发，这里就不赘述了。
 
@@ -79,14 +79,9 @@ ghostsf 这里给大家 整理了一份：[https://github.com/ghostsf/hikvision-
 
 [基于海康威视网络摄像机的 Android 二次开发](https://blog.csdn.net/weixin_40042248/article/details/81664198)
 
-
-
 # 海康威视手机、电脑常用软件下载
 
-查看【海康威视客户服务】微信公众号发布的这篇图文即可。
-
-[https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ](https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ)
-
+查看【海康威视客户服务】微信公众号发布的这篇图文即可。[https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ](https://mp.weixin.qq.com/s/hVUM5WNEbGERW7DbKeRFzQ)
 
 # 其他说明
 
