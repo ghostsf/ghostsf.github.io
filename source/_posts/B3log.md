@@ -3,7 +3,9 @@ title: 重识B3log
 copyright: true
 date: 2020-03-11 10:38:40
 tags: [B3log,88250]
-categories: [事件簿,闲言语]
+categories:
+  -[事件簿]
+  -[闲言语]
 ---
 
 
