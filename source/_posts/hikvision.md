@@ -69,7 +69,7 @@ d、开发平台 android/ios：
 e、网络环境（是否有固定 IP）：
 ```
 
-ghostsf 这里给大家 整理了一份：
+ghostsf 这里给大家 整理了一份：[https://github.com/ghostsf/hikvision-android](https://github.com/ghostsf/hikvision-android)
 
 具体开发，这里就不赘述了。
 
