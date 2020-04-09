@@ -93,3 +93,23 @@ js_minifier:
 
 image_minifier:
   enable: false
+
+# live2d
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: '33'
+  display:
+    position: left
+    width: 150
+    height: 430
+  mobile:
+    show: true
+  react:
+    opacity: 1
