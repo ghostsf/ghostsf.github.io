@@ -6,7 +6,9 @@ tags: k8s
 categories: 技术栈
 ---
 
+> k8s-pod-yarml文件完整配置说明
 
+<!-- more -->
 
 ```yaml
 # k8s-pod-yarml文件完整配置说明
@@ -78,8 +80,8 @@ spec:         #必选，Pod中容器的详细定义
       hostPath: string     #类型为hostPath的存储卷，表示挂载Pod所在宿主机的目录
         path: string     #Pod所在宿主机的目录，将被用于同期中mount的目录
       secret:      #类型为secret的存储卷，挂载集群与定义的secre对象到容器内部
-        scretname: string  
-        items:     
+        scretname: string
+        items:
         - key: string
           path: string
       configMap:     #类型为configMap的存储卷，挂载预定义的configMap对象到容器内部
