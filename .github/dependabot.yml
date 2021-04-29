@@ -1,0 +1,17 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: daily
+  open-pull-requests-limit: 10
+  ignore:
+  - dependency-name: hexo
+    versions:
+    - 5.3.0
+  - dependency-name: hexo-all-minifier
+    versions:
+    - 0.5.5
+  - dependency-name: hexo-renderer-marked
+    versions:
+    - 3.3.0
